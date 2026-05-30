@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-30T08:05:23",
+  "last_updated": "2026-05-30T08:05:36",
   "html": {
     "https://web.archive.org/web/20260506121845if_/https://twitter.com/LastDinosaur23/status/2052000110633267550": {
       "status": "done",
@@ -1480,9 +1480,9 @@
       "referenced_by": [
         "20260517091848_twitter_com_LastDinosaur23_status_2055941091829100936.json"
       ],
-      "last_updated": "2026-05-30T07:55:01",
+      "last_updated": "2026-05-30T08:05:36",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260517091848/https://video.twimg.com/amplify_video/2055923419565432832/vid/avc1/720x1280/luZ1TzkJXSXq67Ne.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2056718385506050048/vid/avc1/960x720/KKINO1JL46zXeSY9.mp4": {
       "status": "done",
