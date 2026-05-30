@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2054472971587289506",
+    "created_at": "2026-05-13T10:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054504158838034493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1245586764837695493",
+          "start": 0,
+          "username": "i0OJoOpG5NuTcjG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054504158838034493",
+    "in_reply_to_user_id": "1245586764837695493",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054473478871658596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i0OJoOpG5NuTcjG 😱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2054473478871658596].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2054473478871658596",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2054473478871658596"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2054472971587289506",
+        "created_at": "2026-05-13T10:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054504158838034493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1245586764837695493",
+              "start": 0,
+              "username": "i0OJoOpG5NuTcjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054504158838034493",
+        "in_reply_to_user_id": "1245586764837695493",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054473478871658596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i0OJoOpG5NuTcjG 😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 265,
+          "like_count": 1947,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 344
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-02T05:40:11.000Z",
+        "description": "这个社会告诉我我是一个坏人，也许我就是吧",
+        "id": "1245586764837695493",
+        "location": "鏡の世界",
+        "name": "柘榴sukisu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721174450366992384/MDgo_P8J_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 353,
+          "like_count": 2158,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 733
+        },
+        "username": "i0OJoOpG5NuTcjG",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2053447243005563173",
+    "created_at": "2026-05-11T08:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053751418088296912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1185431906436804608",
+          "start": 0,
+          "username": "furyouindouairi"
+        },
+        {
+          "end": 28,
+          "id": "1748688710307115008",
+          "start": 17,
+          "username": "nine_and_9"
+        },
+        {
+          "end": 38,
+          "id": "1481172876589821952",
+          "start": 29,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053751418088296912",
+    "in_reply_to_user_id": "1185431906436804608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053673979458748657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@furyouindouairi @nine_and_9 @pyke2076 好的老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2053447243005563173",
+        "created_at": "2026-05-11T08:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053751418088296912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1185431906436804608",
+              "start": 0,
+              "username": "furyouindouairi"
+            },
+            {
+              "end": 28,
+              "id": "1748688710307115008",
+              "start": 17,
+              "username": "nine_and_9"
+            },
+            {
+              "end": 38,
+              "id": "1481172876589821952",
+              "start": 29,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053751418088296912",
+        "in_reply_to_user_id": "1185431906436804608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053673979458748657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furyouindouairi @nine_and_9 @pyke2076 好的老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1185431906436804608",
+        "conversation_id": "2053447243005563173",
+        "created_at": "2026-05-11T03:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053673979458748657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779203068468531200",
+              "start": 0,
+              "username": "LastDinosaur23"
+            },
+            {
+              "end": 27,
+              "id": "1748688710307115008",
+              "start": 16,
+              "username": "nine_and_9"
+            },
+            {
+              "end": 37,
+              "id": "1481172876589821952",
+              "start": 28,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053673979458748657",
+        "in_reply_to_user_id": "1779203068468531200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053491959663353962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastDinosaur23 @nine_and_9 @pyke2076 输液贴先贴上 或者弹力胶带"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 260,
+          "like_count": 1814,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 308
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-19T05:46:30.000Z",
+        "description": "老妈孩子在天堂",
+        "id": "1185431906436804608",
+        "name": "无能神",
+        "pinned_tweet_id": "1955902961399554097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712525810123550721/tq415zD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 941,
+          "like_count": 51188,
+          "listed_count": 2,
+          "media_count": 1104,
+          "tweet_count": 24218
+        },
+        "username": "furyouindouairi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T12:47:43.000Z",
+        "description": "",
+        "id": "1748688710307115008",
+        "name": "九某人",
+        "pinned_tweet_id": "2040311755105255633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748689466552942592/cN2J5xLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 222,
+          "like_count": 1846,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 971
+        },
+        "username": "nine_and_9",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "bunny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8385,
+          "following_count": 1195,
+          "like_count": 65065,
+          "listed_count": 8,
+          "media_count": 3037,
+          "tweet_count": 18577
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

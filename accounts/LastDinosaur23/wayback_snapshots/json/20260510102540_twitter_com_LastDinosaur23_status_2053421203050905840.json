@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2053421203050905840",
+    "created_at": "2026-05-10T10:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053421203050905840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1489468526826082312",
+          "start": 3,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053421203050905840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052882454139011102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Diamond_Kokoro: 遗书这个东西就是第一次自杀的时候最想写，写得事无巨细，恨不得桩桩件件都交代清楚。然后随着死意越来越强，只会觉得死后不想拖泥带水留下那么多东西和烂摊子了。把想过的事情拿出来反刍也很恶心。于是越写越短，终于再也不写了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2053421203050905840",
+        "created_at": "2026-05-10T10:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053421203050905840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1489468526826082312",
+              "start": 3,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053421203050905840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052882454139011102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Diamond_Kokoro: 遗书这个东西就是第一次自杀的时候最想写，写得事无巨细，恨不得桩桩件件都交代清楚。然后随着死意越来越强，只会觉得死后不想拖泥带水留下那么多东西和烂摊子了。把想过的事情拿出来反刍也很恶心。于是越写越短，终于再也不写了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2052882454139011102",
+        "created_at": "2026-05-08T22:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052882454139011102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052882454139011102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 21915,
+          "like_count": 616,
+          "quote_count": 19,
+          "reply_count": 14,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "遗书这个东西就是第一次自杀的时候最想写，写得事无巨细，恨不得桩桩件件都交代清楚。然后随着死意越来越强，只会觉得死后不想拖泥带水留下那么多东西和烂摊子了。把想过的事情拿出来反刍也很恶心。于是越写越短，终于再也不写了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 248,
+          "like_count": 1667,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 292
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "🏳️‍🌈｜@irisdesombres 的忠犬，祂的命令就是我的愿望。\n我的爱人是无性别者，请不要在任何维度评价我的爱人像男人/像女人、不要揣度其指派性别和任何未主动展示的生理构造，这非常冒犯。谢谢。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "石榴花丛中",
+        "name": "小羽",
+        "pinned_tweet_id": "2048784423957778816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051166868161880064/S0zFnTWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 109,
+          "like_count": 5627,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 3918
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

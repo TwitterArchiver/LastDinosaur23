@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053013440827211776",
+        "3_2053013440869044224",
+        "3_2053013440848166912"
+      ]
+    },
+    "author_id": "1779203068468531200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053013462641733647",
+    "created_at": "2026-05-09T07:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053013462641733647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6ewpGiJQgP",
+          "end": 104,
+          "expanded_url": "https://x.com/LastDinosaur23/status/2053013462641733647/photo/1",
+          "media_key": "3_2053013440827211776",
+          "start": 81,
+          "url": "https://t.co/6ewpGiJQgP"
+        },
+        {
+          "display_url": "pic.x.com/6ewpGiJQgP",
+          "end": 104,
+          "expanded_url": "https://x.com/LastDinosaur23/status/2053013462641733647/photo/1",
+          "media_key": "3_2053013440869044224",
+          "start": 81,
+          "url": "https://t.co/6ewpGiJQgP"
+        },
+        {
+          "display_url": "pic.x.com/6ewpGiJQgP",
+          "end": 104,
+          "expanded_url": "https://x.com/LastDinosaur23/status/2053013462641733647/photo/1",
+          "media_key": "3_2053013440848166912",
+          "start": 81,
+          "url": "https://t.co/6ewpGiJQgP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053013462641733647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正说（教派角度）那诺斯替主义将超人类主义有机结合，岂不能使主张和行为更自洽，十分进步呢…\n误打误撞，好像真是这么回事（类型学上）（诶这种说法是不是更常表贬义？？ https://t.co/6ewpGiJQgP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 326,
+        "media_key": "3_2053013440827211776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3E2NubwAAYEWd.jpg",
+        "width": 1242
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053013440869044224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3E2N4aEAAzUDU.jpg",
+        "width": 197
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053013440848166912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3E2NzbgAAboVX.jpg",
+        "width": 212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053013440827211776",
+            "3_2053013440869044224",
+            "3_2053013440848166912"
+          ]
+        },
+        "author_id": "1779203068468531200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053013462641733647",
+        "created_at": "2026-05-09T07:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053013462641733647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ewpGiJQgP",
+              "end": 104,
+              "expanded_url": "https://x.com/LastDinosaur23/status/2053013462641733647/photo/1",
+              "media_key": "3_2053013440827211776",
+              "start": 81,
+              "url": "https://t.co/6ewpGiJQgP"
+            },
+            {
+              "display_url": "pic.x.com/6ewpGiJQgP",
+              "end": 104,
+              "expanded_url": "https://x.com/LastDinosaur23/status/2053013462641733647/photo/1",
+              "media_key": "3_2053013440869044224",
+              "start": 81,
+              "url": "https://t.co/6ewpGiJQgP"
+            },
+            {
+              "display_url": "pic.x.com/6ewpGiJQgP",
+              "end": 104,
+              "expanded_url": "https://x.com/LastDinosaur23/status/2053013462641733647/photo/1",
+              "media_key": "3_2053013440848166912",
+              "start": 81,
+              "url": "https://t.co/6ewpGiJQgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053013462641733647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正说（教派角度）那诺斯替主义将超人类主义有机结合，岂不能使主张和行为更自洽，十分进步呢…\n误打误撞，好像真是这么回事（类型学上）（诶这种说法是不是更常表贬义？？ https://t.co/6ewpGiJQgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 220,
+          "like_count": 1455,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 249
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      }
+    ]
+  }
+}

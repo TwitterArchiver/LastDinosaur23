@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2052692166045245905",
+    "created_at": "2026-05-08T15:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052766459043234194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1245586764837695493",
+          "start": 0,
+          "username": "i0OJoOpG5NuTcjG"
+        },
+        {
+          "end": 33,
+          "id": "1684269091849404416",
+          "start": 17,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052766459043234194",
+    "in_reply_to_user_id": "1245586764837695493",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052740700585046126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i0OJoOpG5NuTcjG @hg3551019177402 那不敢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2052692166045245905",
+        "created_at": "2026-05-08T15:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052766459043234194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1245586764837695493",
+              "start": 0,
+              "username": "i0OJoOpG5NuTcjG"
+            },
+            {
+              "end": 33,
+              "id": "1684269091849404416",
+              "start": 17,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052766459043234194",
+        "in_reply_to_user_id": "1245586764837695493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052740700585046126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i0OJoOpG5NuTcjG @hg3551019177402 那不敢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1245586764837695493",
+        "conversation_id": "2052692166045245905",
+        "created_at": "2026-05-08T13:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052740700585046126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052740700585046126",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052692166045245905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 玩dxm是吧😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 220,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 247
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-02T05:40:11.000Z",
+        "description": "这个社会告诉我我是一个坏人，也许我就是吧",
+        "id": "1245586764837695493",
+        "location": "鏡の世界",
+        "name": "柘榴sukisu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721174450366992384/MDgo_P8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 355,
+          "like_count": 2051,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 701
+        },
+        "username": "i0OJoOpG5NuTcjG",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟代，等新表格ing！其实你们还是可以咨询但是我不会主动推销了…",
+        "id": "1684269091849404416",
+        "name": "12（男子日常）",
+        "pinned_tweet_id": "2052734958851252431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 837,
+          "like_count": 18209,
+          "listed_count": 1,
+          "media_count": 692,
+          "tweet_count": 9469
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

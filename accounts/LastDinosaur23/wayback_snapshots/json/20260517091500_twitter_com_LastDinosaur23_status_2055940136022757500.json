@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2055940136022757500",
+    "created_at": "2026-05-17T09:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055940136022757500"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055940136022757500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊——好想重开。\n记得那时炽的亲友（🐙？）提到，她有很多注定无解的问题，包括但不限于难治性抑郁、ASD、强直性脊柱炎等等……更复杂、更沉重。\n听到那消息的那阵子，我在循环《RIDE THE BLUE LIMBO》，强关联了（？（，于是天天脑内手书，纪念炽及中推其他紫砂逝去的人。\n……已经快到夏天了吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2055940136022757500",
+        "created_at": "2026-05-17T09:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055940136022757500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055940136022757500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊——好想重开。\n记得那时炽的亲友（🐙？）提到，她有很多注定无解的问题，包括但不限于难治性抑郁、ASD、强直性脊柱炎等等……更复杂、更沉重。\n听到那消息的那阵子，我在循环《RIDE THE BLUE LIMBO》，强关联了（？（，于是天天脑内手书，纪念炽及中推其他紫砂逝去的人。\n……已经快到夏天了吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 283,
+          "like_count": 2180,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 367
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      }
+    ]
+  }
+}

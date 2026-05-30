@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2054518893390254325",
+    "created_at": "2026-05-13T11:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T12:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054518893390254325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1574668085314965504",
+          "start": 3,
+          "username": "Meer19002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054518893390254325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1735946233381114322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meer19002: 关于约死一个群友说的: 1.我认识的有个女的，和人约死，三个人一起跳楼，说好的手拉手互相推，她怕了，把另外两个人推下去了，她没跳。2.我高中那会有个抑郁症女的缠着我，她说她要和我谈恋爱，然后有天晚上她突然告诉我我们一起死吧，然后我吃药吃了两百多片各…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2054518893390254325",
+        "created_at": "2026-05-13T11:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054518893390254325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1574668085314965504",
+              "start": 3,
+              "username": "Meer19002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054518893390254325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1735946233381114322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meer19002: 关于约死一个群友说的: 1.我认识的有个女的，和人约死，三个人一起跳楼，说好的手拉手互相推，她怕了，把另外两个人推下去了，她没跳。2.我高中那会有个抑郁症女的缠着我，她说她要和我谈恋爱，然后有天晚上她突然告诉我我们一起死吧，然后我吃药吃了两百多片各…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574668085314965504",
+        "conversation_id": "1735946233381114322",
+        "created_at": "2023-12-16T08:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2023-12-16T09:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1735946233381114322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1735946233381114322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3962,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于约死一个群友说的: 1.我认识的有个女的，和人约死，三个人一起跳楼，说好的手拉手互相推，她怕了，把另外两个人推下去了，她没跳。2.我高中那会有个抑郁症女的缠着我，她说她要和我谈恋爱，然后有天晚上她突然告诉我我们一起死吧，然后我吃药吃了两百多片各种药进医院了，她第二天去上学了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 267,
+          "like_count": 1961,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 346
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T07:51:55.000Z",
+        "description": "好想死☠️",
+        "id": "1574668085314965504",
+        "name": "Hazel Valentine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838764299734650880/DF7plmmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 749,
+          "like_count": 11306,
+          "listed_count": 13,
+          "media_count": 1403,
+          "tweet_count": 11429
+        },
+        "username": "Meer19002",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053404721881493504"
+      ]
+    },
+    "author_id": "1779203068468531200",
+    "conversation_id": "2052883488874147866",
+    "created_at": "2026-05-10T09:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053404743339585604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748688710307115008",
+          "start": 0,
+          "username": "nine_and_9"
+        },
+        {
+          "end": 22,
+          "id": "1261560609214087168",
+          "start": 12,
+          "username": "Cathy_eko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uarvdiP0T2",
+          "end": 112,
+          "expanded_url": "https://x.com/LastDinosaur23/status/2053404743339585604/photo/1",
+          "media_key": "3_2053404721881493504",
+          "start": 89,
+          "url": "https://t.co/uarvdiP0T2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053404743339585604",
+    "in_reply_to_user_id": "1748688710307115008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053402304053957105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nine_and_9 @Cathy_eko 就很，那个硬核模式，作品本身具有多维性做不到全面覆盖，而维度标签拆分的局限性就在于测试结果会自适应。虽然为爱发电而且设计的还不错… https://t.co/uarvdiP0T2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053404721881493504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8otxPbMAAlsbw.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053404721881493504"
+          ]
+        },
+        "author_id": "1779203068468531200",
+        "conversation_id": "2052883488874147866",
+        "created_at": "2026-05-10T09:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053404743339585604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748688710307115008",
+              "start": 0,
+              "username": "nine_and_9"
+            },
+            {
+              "end": 22,
+              "id": "1261560609214087168",
+              "start": 12,
+              "username": "Cathy_eko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uarvdiP0T2",
+              "end": 112,
+              "expanded_url": "https://x.com/LastDinosaur23/status/2053404743339585604/photo/1",
+              "media_key": "3_2053404721881493504",
+              "start": 89,
+              "url": "https://t.co/uarvdiP0T2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053404743339585604",
+        "in_reply_to_user_id": "1748688710307115008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053402304053957105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nine_and_9 @Cathy_eko 就很，那个硬核模式，作品本身具有多维性做不到全面覆盖，而维度标签拆分的局限性就在于测试结果会自适应。虽然为爱发电而且设计的还不错… https://t.co/uarvdiP0T2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748688710307115008",
+        "conversation_id": "2052883488874147866",
+        "created_at": "2026-05-10T09:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053402304053957105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779203068468531200",
+              "start": 0,
+              "username": "LastDinosaur23"
+            },
+            {
+              "end": 26,
+              "id": "1261560609214087168",
+              "start": 16,
+              "username": "Cathy_eko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053402304053957105",
+        "in_reply_to_user_id": "1779203068468531200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053401270577398263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastDinosaur23 @Cathy_eko 比如说一些选项一看就是某部作品，我觉得不准的原因可能是打gal更倾向于看故事而不是模拟你现实中会做出的举措以及倾向吸引妹子打炮（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 247,
+          "like_count": 1630,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 285
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T12:47:43.000Z",
+        "description": "",
+        "id": "1748688710307115008",
+        "name": "九某人",
+        "pinned_tweet_id": "2040311755105255633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748689466552942592/cN2J5xLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 223,
+          "like_count": 1852,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 936
+        },
+        "username": "nine_and_9",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "长夜伴浪破晓梦，梦晓破浪伴夜长。",
+        "id": "1261560609214087168",
+        "location": "弓張",
+        "name": "小学茜",
+        "pinned_tweet_id": "1597412027227836416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053372636898725888/9buW95xv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4993,
+          "following_count": 1406,
+          "like_count": 160898,
+          "listed_count": 59,
+          "media_count": 6140,
+          "tweet_count": 64516
+        },
+        "username": "Cathy_eko",
+        "verified": false
+      }
+    ]
+  }
+}

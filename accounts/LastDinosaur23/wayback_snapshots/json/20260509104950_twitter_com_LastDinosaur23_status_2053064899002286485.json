@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2052457159460557088",
+    "created_at": "2026-05-09T10:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053064899002286485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1785682536460668928",
+          "start": 0,
+          "username": "Neo_4840"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053064899002286485",
+    "in_reply_to_user_id": "1785682536460668928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052457159460557088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neo_4840 帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2052456940249530368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvKtnhbwAA1Ll3.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2052457159460557088",
+        "created_at": "2026-05-09T10:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053064899002286485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1785682536460668928",
+              "start": 0,
+              "username": "Neo_4840"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053064899002286485",
+        "in_reply_to_user_id": "1785682536460668928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052457159460557088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neo_4840 帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052456940249530368"
+          ]
+        },
+        "author_id": "1785682536460668928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10025771404",
+              "name": "Toshiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10025771404",
+              "name": "Toshiba"
+            }
+          }
+        ],
+        "conversation_id": "2052457159460557088",
+        "created_at": "2026-05-07T18:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052457159460557088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pox3mFpcBk",
+              "end": 60,
+              "expanded_url": "https://x.com/Neo_4840/status/2052457159460557088/photo/1",
+              "media_key": "3_2052456940249530368",
+              "start": 37,
+              "url": "https://t.co/Pox3mFpcBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052457159460557088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Toshiba KT-275 (1978)\n\n很小众的机型，我尽量修复了 https://t.co/Pox3mFpcBk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 221,
+          "like_count": 1476,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 255
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T14:47:56.000Z",
+        "description": "",
+        "id": "1785682536460668928",
+        "location": "Nanjing, Jiangsu Prov., China ",
+        "name": "Neo_4840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812120375355908096/l48C1nj2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 643,
+          "like_count": 16716,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 51
+        },
+        "username": "Neo_4840",
+        "verified": false
+      }
+    ]
+  }
+}

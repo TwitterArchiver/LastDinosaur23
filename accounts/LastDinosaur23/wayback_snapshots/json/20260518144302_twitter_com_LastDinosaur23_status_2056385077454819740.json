@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2055871790640189467",
+    "created_at": "2026-05-18T14:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056385077454819740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597468568290873344",
+          "start": 0,
+          "username": "jingzhny11"
+        },
+        {
+          "end": 28,
+          "id": "1714510407006851072",
+          "start": 12,
+          "username": "hhhhhhhhhh68887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056385077454819740",
+    "in_reply_to_user_id": "1597468568290873344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055912404098089096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzhny11 @hhhhhhhhhh68887 那就不得不提西柚汁下可乐尔时的超绝呕吐物香气了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2055871790640189467",
+        "created_at": "2026-05-18T14:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056385077454819740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 28,
+              "id": "1714510407006851072",
+              "start": 12,
+              "username": "hhhhhhhhhh68887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056385077454819740",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055912404098089096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 @hhhhhhhhhh68887 那就不得不提西柚汁下可乐尔时的超绝呕吐物香气了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "conversation_id": "2055871790640189467",
+        "created_at": "2026-05-17T07:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055912404098089096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714510407006851072",
+              "start": 0,
+              "username": "hhhhhhhhhh68887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055912404098089096",
+        "in_reply_to_user_id": "1714510407006851072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055871790640189467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhhhhhhhh68887 我已经要忘记了到底是西柚汁难喝还是右美难吃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 295,
+          "like_count": 2319,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 389
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5317,
+          "following_count": 2015,
+          "like_count": 124703,
+          "listed_count": 22,
+          "media_count": 258,
+          "tweet_count": 18406
+        },
+        "username": "jingzhny11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T05:15:24.000Z",
+        "description": "希腊裔法国人、未来主义者、超现实主义诗人、残酷戏剧创造者、法兰西护国主与极速弥赛亚。\n\n放弃和弥漫的虚无作斗争吧...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/sharedfiles/fi…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2587855526",
+                "start": 0,
+                "url": "https://t.co/M2EioLD2t1"
+              }
+            ]
+          }
+        },
+        "id": "1714510407006851072",
+        "location": "“太阳”",
+        "name": "⚡️安托南•阿尔托Antonin Artaud🇫🇷",
+        "pinned_tweet_id": "1821412705938629078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053222646314401792/TEFjqA7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 825,
+          "like_count": 22162,
+          "listed_count": 2,
+          "media_count": 1003,
+          "tweet_count": 9442
+        },
+        "url": "https://t.co/M2EioLD2t1",
+        "username": "hhhhhhhhhh68887",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2051665427458330953",
+    "created_at": "2026-05-06T12:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052000110633267550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880947070837964800",
+          "start": 0,
+          "username": "Guillermin45548"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052000110633267550",
+    "in_reply_to_user_id": "1880947070837964800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051665427458330953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guillermin45548 遵从妈妈意愿 我问问先"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1238,
+        "media_key": "3_2051665424723611648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHj61WaaEAABFp8.jpg",
+        "width": 1003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2051665427458330953",
+        "created_at": "2026-05-06T12:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052000110633267550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880947070837964800",
+              "start": 0,
+              "username": "Guillermin45548"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052000110633267550",
+        "in_reply_to_user_id": "1880947070837964800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051665427458330953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guillermin45548 遵从妈妈意愿 我问问先"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051665424723611648"
+          ]
+        },
+        "author_id": "1880947070837964800",
+        "conversation_id": "2051665427458330953",
+        "created_at": "2026-05-05T14:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051665427458330953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQHfqnlLIr",
+              "end": 41,
+              "expanded_url": "https://x.com/Guillermin45548/status/2051665427458330953/photo/1",
+              "media_key": "3_2051665424723611648",
+              "start": 18,
+              "url": "https://t.co/IQHfqnlLIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051665427458330953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 73026,
+          "like_count": 121,
+          "quote_count": 2,
+          "reply_count": 555,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一亿元和妈妈永远活着，你会选哪个？ https://t.co/IQHfqnlLIr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 209,
+          "like_count": 1245,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 220
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:14.000Z",
+        "description": "07年中专不读生，辍学后无社交试图在网上找些存在感，日常记录碎碎念，大家的情绪垃圾桶，祝天天开心～",
+        "id": "1880947070837964800",
+        "name": "瑶瑶睡不着💤",
+        "pinned_tweet_id": "2051665427458330953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008146294750240768/atsWlS0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16408,
+          "following_count": 96,
+          "like_count": 1008,
+          "listed_count": 15,
+          "media_count": 392,
+          "tweet_count": 1800
+        },
+        "username": "Guillermin45548",
+        "verified": false
+      }
+    ]
+  }
+}

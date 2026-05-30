@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2054214162449048053",
+    "created_at": "2026-05-12T14:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054214162449048053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "根据我X账号 @LastDinosaur23 的历史推文直接创作我的日漫角色形象，完成角色人设图，不要给名字年纪之类的设定，不要以头像为原型。请自行完成角色的全部设计，包括外貌、神态、发型、穿搭、色彩氛围、配饰和背景元素，并以简单日漫风格（simple anime style）呈现。避免半写实、3D、韩 漫风和刻板化模板。也得加入一点点精神药理/drug元素和诺斯替元素。如果带来密教模拟器、极乐迪斯科的感觉就更好了（感觉！不是模仿 **角色形象描述（用于图像生成）：** 一个简单日漫风格的年轻男性角色，瘦高身形略显飘忽，带着一种游离于现实边缘的疏离感。脸型偏窄而精致，下颌线柔和，眼睛大而略显空洞，瞳孔呈现不自然的淡紫灰色调，仿佛焦点永远不在眼前事物上——一种轻微的“解离”神态，眼神迷蒙却带着隐秘的洞察力，眉毛细长微蹙，嘴角有一丝自嘲或超然的浅笑，像在嘲讽物质世界的幻象。 发型：中长黑发略带冷灰蓝渐变，凌乱却有层次，前刘 海遮住一只眼睛，部分发丝像被风雪吹散般飘浮，末端有细微的“融化”或发光粒子效果，暗示不稳定状态。头发中夹杂极细的白色雪粒或灰烬颗粒，静止漂浮在周围。 穿搭：深色系宽松学院风外套（暗蓝黑为主）",
+          "display_url": "x.com/i/grok/share/b…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/grok/share/b7674c70d5764552be1cc1de7333d67f",
+          "start": 0,
+          "status": 200,
+          "title": "生成",
+          "unwound_url": "https://x.com/i/grok/share/b7674c70d5764552be1cc1de7333d67f",
+          "url": "https://t.co/t95RbPNJkz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054214162449048053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/t95RbPNJkz\n吸感很重的样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2054214162449048053",
+        "created_at": "2026-05-12T14:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054214162449048053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "根据我X账号 @LastDinosaur23 的历史推文直接创作我的日漫角色形象，完成角色人设图，不要给名字年纪之类的设定，不要以头像为原型。请自行完成角色的全部设计，包括外貌、神态、发型、穿搭、色彩氛围、配饰和背景元素，并以简单日漫风格（simple anime style）呈现。避免半写实、3D、韩 漫风和刻板化模板。也得加入一点点精神药理/drug元素和诺斯替元素。如果带来密教模拟器、极乐迪斯科的感觉就更好了（感觉！不是模仿 **角色形象描述（用于图像生成）：** 一个简单日漫风格的年轻男性角色，瘦高身形略显飘忽，带着一种游离于现实边缘的疏离感。脸型偏窄而精致，下颌线柔和，眼睛大而略显空洞，瞳孔呈现不自然的淡紫灰色调，仿佛焦点永远不在眼前事物上——一种轻微的“解离”神态，眼神迷蒙却带着隐秘的洞察力，眉毛细长微蹙，嘴角有一丝自嘲或超然的浅笑，像在嘲讽物质世界的幻象。 发型：中长黑发略带冷灰蓝渐变，凌乱却有层次，前刘 海遮住一只眼睛，部分发丝像被风雪吹散般飘浮，末端有细微的“融化”或发光粒子效果，暗示不稳定状态。头发中夹杂极细的白色雪粒或灰烬颗粒，静止漂浮在周围。 穿搭：深色系宽松学院风外套（暗蓝黑为主）",
+              "display_url": "x.com/i/grok/share/b…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/b7674c70d5764552be1cc1de7333d67f",
+              "start": 0,
+              "status": 200,
+              "title": "生成",
+              "unwound_url": "https://x.com/i/grok/share/b7674c70d5764552be1cc1de7333d67f",
+              "url": "https://t.co/t95RbPNJkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054214162449048053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/t95RbPNJkz\n吸感很重的样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 261,
+          "like_count": 1916,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 332
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      }
+    ]
+  }
+}

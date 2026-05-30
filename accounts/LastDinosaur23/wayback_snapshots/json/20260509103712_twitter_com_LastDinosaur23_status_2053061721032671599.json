@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2053011928369258683",
+    "created_at": "2026-05-09T10:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053061721032671599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757301585305374720",
+          "start": 0,
+          "username": "gummybear8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053061721032671599",
+    "in_reply_to_user_id": "1757301585305374720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053011928369258683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gummybear8964 老司机带你炒炒币"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2053011928369258683",
+        "created_at": "2026-05-09T10:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053061721032671599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757301585305374720",
+              "start": 0,
+              "username": "gummybear8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053061721032671599",
+        "in_reply_to_user_id": "1757301585305374720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053011928369258683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gummybear8964 老司机带你炒炒币"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757301585305374720",
+        "conversation_id": "2053011928369258683",
+        "created_at": "2026-05-09T07:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053011928369258683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053011928369258683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有无炒币的带我入圈？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 221,
+          "like_count": 1468,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 251
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T07:12:15.000Z",
+        "description": "草草草草草草草草草草草\nHe/Him, They/Them\nA big gamer, noob developer, 420 friendly.\nA lamb from utopian",
+        "id": "1757301585305374720",
+        "name": "吃草草草草草草莓呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035192907125395456/w8-Gc6OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 51,
+          "like_count": 10,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 339
+        },
+        "username": "gummybear8964",
+        "verified": false
+      }
+    ]
+  }
+}

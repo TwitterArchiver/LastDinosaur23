@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2052410520347500651",
+    "created_at": "2026-05-08T11:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052711157841191154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2041449281677045760",
+          "start": 0,
+          "username": "Sorcerer198964"
+        },
+        {
+          "end": 30,
+          "id": "1937073350750466048",
+          "start": 16,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052711157841191154",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052410520347500651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorcerer198964 @karo269640607 我也确实觉得浪费时间，每次和挂号上预定的时间得差两个小时。虽然人家很称职很想帮助你，但人家根本没法理解你，你也根本说不出真心话，好难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2052410520347500651",
+        "created_at": "2026-05-08T11:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052711157841191154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer198964"
+            },
+            {
+              "end": 30,
+              "id": "1937073350750466048",
+              "start": 16,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052711157841191154",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052410520347500651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer198964 @karo269640607 我也确实觉得浪费时间，每次和挂号上预定的时间得差两个小时。虽然人家很称职很想帮助你，但人家根本没法理解你，你也根本说不出真心话，好难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2052410520347500651",
+        "created_at": "2026-05-07T15:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052410520347500651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052410520347500651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6780,
+          "like_count": 90,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "原来还可以和精神科医生谈心的吗？\n我以为精神科只会处理躯体化症状，然后既然自己知道自己需要什么，每次进去都是直接点菜，不超过五分钟\n我甚至一直觉得和精神科医生谈心是很浪费别的患者时间的行为\n明天原来才是我第一次去正经看精神科"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 216,
+          "like_count": 1414,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 232
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 493,
+          "like_count": 369,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 1224
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 使用英文和简体中文|讨厌一切宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切 衛拓拒拆逆、生化里昂右向全肯定| 骂我的全家替我挡灾",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2039982674664960247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 450,
+          "like_count": 24191,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 4276
+        },
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2053751215696351528",
+    "created_at": "2026-05-11T08:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053751215696351528"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053751215696351528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "诶根据诺斯替创世神话那“赛特之族”不确实是有灵性决定论的意思吗，为什么又说“取决于其是否选择成为古典诺斯替主义者”呢？\n（什么异端研究者发言"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2053751215696351528",
+        "created_at": "2026-05-11T08:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053751215696351528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053751215696351528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶根据诺斯替创世神话那“赛特之族”不确实是有灵性决定论的意思吗，为什么又说“取决于其是否选择成为古典诺斯替主义者”呢？\n（什么异端研究者发言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 259,
+          "like_count": 1810,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 303
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      }
+    ]
+  }
+}

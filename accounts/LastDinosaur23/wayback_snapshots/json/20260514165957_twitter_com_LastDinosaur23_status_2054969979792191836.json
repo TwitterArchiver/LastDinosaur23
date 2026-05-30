@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2054969979792191836",
+    "created_at": "2026-05-14T16:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T17:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054969979792191836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682395404976156672",
+          "start": 3,
+          "username": "yanghs84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054969979792191836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054854229219594292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanghs84: 抽奖贴（5.20限定版）\n1.本次开奖时间为5月20号下午5点20\n2.本次送出18.8红包5个，52元红包5个，168红包1个，希望有更多人可以参与到\n3.参与方式：点赞、评论、转帖都🉑，168红包只会在转帖的人中选择，请周知\n4.领奖时间为开奖后…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2054969979792191836",
+        "created_at": "2026-05-14T16:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054969979792191836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682395404976156672",
+              "start": 3,
+              "username": "yanghs84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054969979792191836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054854229219594292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanghs84: 抽奖贴（5.20限定版）\n1.本次开奖时间为5月20号下午5点20\n2.本次送出18.8红包5个，52元红包5个，168红包1个，希望有更多人可以参与到\n3.参与方式：点赞、评论、转帖都🉑，168红包只会在转帖的人中选择，请周知\n4.领奖时间为开奖后…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682395404976156672",
+        "conversation_id": "2054854229219594292",
+        "created_at": "2026-05-14T09:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054854229219594292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054854229219594292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2397,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖贴（5.20限定版）\n1.本次开奖时间为5月20号下午5点20\n2.本次送出18.8红包5个，52元红包5个，168红包1个，希望有更多人可以参与到\n3.参与方式：点赞、评论、转帖都🉑，168红包只会在转帖的人中选择，请周知\n4.领奖时间为开奖后12小时内，过期不补\n提前祝大家开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 273,
+          "like_count": 2022,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 354
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T14:21:41.000Z",
+        "description": "普通人，喜欢美女是正常的",
+        "id": "1682395404976156672",
+        "location": "Taiwan",
+        "name": "不吃鱼的猫",
+        "pinned_tweet_id": "2048982114541117755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016011338741628928/D6sBt4Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 14,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 253
+        },
+        "username": "yanghs84",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2052398111864267027",
+    "created_at": "2026-05-10T04:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053334069287485577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007394776837173252",
+          "start": 0,
+          "username": "effect_motion_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053334069287485577",
+    "in_reply_to_user_id": "2007394776837173252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052398111864267027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@effect_motion_x 角度也很重要呢……有时候，p2到p1可能仅仅是凹了个角度而无p，这时候就不能称之为诈骗了（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20162,
+        "height": 752,
+        "media_key": "13_2052398068809797632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052398068809797632/img/a0RPY-kSYL696IB-.jpg",
+        "public_metrics": {
+          "view_count": 563413
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052398068809797632/vid/avc1/320x484/BYdoGuGHdK1ZvR3R.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052398068809797632/vid/avc1/496x752/Ra8P0Zi9yo6UTnd2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052398068809797632/pl/w4-j0EZW-rBUyEaz.m3u8?v=cfc"
+          }
+        ],
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2052398111864267027",
+        "created_at": "2026-05-10T04:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053334069287485577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007394776837173252",
+              "start": 0,
+              "username": "effect_motion_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053334069287485577",
+        "in_reply_to_user_id": "2007394776837173252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052398111864267027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@effect_motion_x 角度也很重要呢……有时候，p2到p1可能仅仅是凹了个角度而无p，这时候就不能称之为诈骗了（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052398068809797632"
+          ]
+        },
+        "author_id": "2007394776837173252",
+        "conversation_id": "2052398111864267027",
+        "created_at": "2026-05-07T14:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052398111864267027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/156H7pyXxA",
+              "end": 52,
+              "expanded_url": "https://x.com/effect_motion_x/status/2052398111864267027/video/1",
+              "media_key": "13_2052398068809797632",
+              "start": 29,
+              "url": "https://t.co/156H7pyXxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052398111864267027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 786,
+          "impression_count": 1144008,
+          "like_count": 3176,
+          "quote_count": 143,
+          "reply_count": 181,
+          "retweet_count": 185
+        },
+        "reply_settings": "everyone",
+        "text": "1枚目→イメージする地雷系女子\n2枚目→実際の地雷系女子 https://t.co/156H7pyXxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 245,
+          "like_count": 1599,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 274
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T10:13:21.000Z",
+        "description": "心がホッとする美しい映像や日常の癒し、話題のニュースをお届けします✨️日常の小さなことや思ったことをつぶやくゆる垢です🌿フォローお待ちしてます！\nhttps://t.co/ZGT8eaak4N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/effect_motion_n",
+                "end": 96,
+                "expanded_url": "https://note.com/effect_motion_n",
+                "start": 73,
+                "url": "https://t.co/ZGT8eaak4N"
+              }
+            ]
+          }
+        },
+        "id": "2007394776837173252",
+        "name": "Hikari",
+        "pinned_tweet_id": "2053260832163901774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016265296294907904/K2ng39c8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13356,
+          "following_count": 8607,
+          "like_count": 13941,
+          "listed_count": 22,
+          "media_count": 987,
+          "tweet_count": 16132
+        },
+        "username": "effect_motion_x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2052998034913702308",
+    "created_at": "2026-05-10T03:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053323504767148298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886449401029140485",
+          "start": 0,
+          "username": "shuanghenru"
+        },
+        {
+          "end": 22,
+          "id": "1884546510919979008",
+          "start": 13,
+          "username": "iamThuja"
+        },
+        {
+          "end": 34,
+          "id": "2040798583440527360",
+          "start": 23,
+          "username": "longyvling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053323504767148298",
+    "in_reply_to_user_id": "1886449401029140485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053231512922018119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuanghenru @iamThuja @longyvling 这么豪，愿狼来了的报应降临于他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2052998034913702308",
+        "created_at": "2026-05-10T03:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053323504767148298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886449401029140485",
+              "start": 0,
+              "username": "shuanghenru"
+            },
+            {
+              "end": 22,
+              "id": "1884546510919979008",
+              "start": 13,
+              "username": "iamThuja"
+            },
+            {
+              "end": 34,
+              "id": "2040798583440527360",
+              "start": 23,
+              "username": "longyvling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053323504767148298",
+        "in_reply_to_user_id": "1886449401029140485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053231512922018119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuanghenru @iamThuja @longyvling 这么豪，愿狼来了的报应降临于他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886449401029140485",
+        "conversation_id": "2052998034913702308",
+        "created_at": "2026-05-09T21:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T22:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053231512922018119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779203068468531200",
+              "start": 0,
+              "username": "LastDinosaur23"
+            },
+            {
+              "end": 25,
+              "id": "1884546510919979008",
+              "start": 16,
+              "username": "iamThuja"
+            },
+            {
+              "end": 37,
+              "id": "2040798583440527360",
+              "start": 26,
+              "username": "longyvling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053231512922018119",
+        "in_reply_to_user_id": "1779203068468531200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053116001726964103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastDinosaur23 @iamThuja @longyvling 笑点评析 假死且社会实验"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 232,
+          "like_count": 1574,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 267
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T16:19:29.000Z",
+        "description": "09.12.23 MTF (She/Her) | HRT 25.5.9 | 双相 小证",
+        "id": "1886449401029140485",
+        "location": "🫥🫥🫥🫥🫥🫥",
+        "name": "霜🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952663751691255808/P0sBq0XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 876,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 817
+        },
+        "username": "shuanghenru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "社会保守主义最锋利的矛，粉红中最坚实的盾//一半灵珠一半魔丸，立场温和表达肮脏//@theRealThuja唯一小号，@ThujaSlover为支黑假扮号。默认一切到处瞎鉴证、追着骂的，不论立场全是孙笑川的走狗帮凶/我线下真不是大老粗//喝多了会泄露隐私⛔️激粉红激LGBT先去问AI查我成分再开火好不，乱扣帽子的蠢货",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "theRealThuja"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "ThujaSlover"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "location": "发射桥鲁鲁工位上",
+        "name": "传奇出生乌鲁鲁（巡飞弹只飞别人浮木）",
+        "pinned_tweet_id": "2052991729029317054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025544194094489600/fqjmK1vS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 699,
+          "like_count": 5333,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 1945
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThuja",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "MtF | ASD | 🎂2010.1.3 | Minecraft PVP | 喜欢物理 | 红星熄了，你还在燃。燃什么呢？只剩灰吗？",
+        "id": "2040798583440527360",
+        "location": "长夜孤灯",
+        "name": "龙雨绫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 71,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 158
+        },
+        "username": "longyvling",
+        "verified": false
+      }
+    ]
+  }
+}
