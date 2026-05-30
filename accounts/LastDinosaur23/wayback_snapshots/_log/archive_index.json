@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-30T08:05:36",
+  "last_updated": "2026-05-30T08:06:33",
   "html": {
     "https://web.archive.org/web/20260506121845if_/https://twitter.com/LastDinosaur23/status/2052000110633267550": {
       "status": "done",
@@ -1757,13 +1757,13 @@
       "last_updated": "2026-05-30T07:55:16"
     },
     "https://pbs.twimg.com/profile_images/2051857960901775360/8xZUrJPF_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260506154913_twitter_com_LastDinosaur23_status_2052053075364642962.json"
       ],
-      "last_updated": "2026-05-30T08:01:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506154913im_/https://pbs.twimg.com/profile_images/2051857960901775360/8xZUrJPF_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79c5135c40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-30T08:05:51",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260506154913if_/https://pbs.twimg.com/profile_images/2051857960901775360/8xZUrJPF_normal.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg": {
       "status": "failed_all",
@@ -1771,9 +1771,9 @@
         "20260506155505_twitter_com_LastDinosaur23_status_2052054551373684737.json",
         "20260508150357_twitter_com_LastDinosaur23_status_2052766459043234194.json"
       ],
-      "last_updated": "2026-05-30T07:55:18",
+      "last_updated": "2026-05-30T08:05:53",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260508150357if_/https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg": {
       "status": "done",
@@ -1893,9 +1893,9 @@
       "referenced_by": [
         "20260508122259_twitter_com_LastDinosaur23_status_2052725954271936792.json"
       ],
-      "last_updated": "2026-05-30T07:55:17",
+      "last_updated": "2026-05-30T08:05:56",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260508122259if_/https://pbs.twimg.com/profile_images/2052429741299257347/SO6e9lld_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg": {
       "status": "done",
@@ -1971,13 +1971,13 @@
       "last_updated": "2026-05-30T07:55:16"
     },
     "https://pbs.twimg.com/profile_images/2053029866119786499/8dj4JRxs_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260509104848_twitter_com_LastDinosaur23_status_2053064638682788276.json"
       ],
-      "last_updated": "2026-05-30T08:01:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509104848im_/https://pbs.twimg.com/profile_images/2053029866119786499/8dj4JRxs_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79c5136b40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-30T08:05:58",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260509104848if_/https://pbs.twimg.com/profile_images/2053029866119786499/8dj4JRxs_normal.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/1812120375355908096/l48C1nj2_normal.jpg": {
       "status": "done",
@@ -2033,9 +2033,9 @@
         "20260509141254_twitter_com_LastDinosaur23_status_2053116001726964103.json",
         "20260510035727_twitter_com_LastDinosaur23_status_2053323504767148298.json"
       ],
-      "last_updated": "2026-05-30T08:01:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510035727im_/https://pbs.twimg.com/profile_images/2025544194094489600/fqjmK1vS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79c5159040>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-30T08:06:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510035727im_/https://pbs.twimg.com/profile_images/2025544194094489600/fqjmK1vS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5803159cd0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg": {
       "status": "done",
@@ -2140,13 +2140,13 @@
       "last_updated": "2026-05-30T07:55:16"
     },
     "https://pbs.twimg.com/profile_images/2051166868161880064/S0zFnTWl_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260510102540_twitter_com_LastDinosaur23_status_2053421203050905840.json"
       ],
-      "last_updated": "2026-05-30T08:00:56",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260510102540if_/https://pbs.twimg.com/profile_images/2051166868161880064/S0zFnTWl_normal.jpg",
-      "miss_count": 2
+      "last_updated": "2026-05-30T08:06:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510102540im_/https://pbs.twimg.com/profile_images/2051166868161880064/S0zFnTWl_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5803182cc0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg": {
       "status": "done",
@@ -2181,9 +2181,9 @@
       "referenced_by": [
         "20260510151256_twitter_com_LastDinosaur23_status_2053493497295188478.json"
       ],
-      "last_updated": "2026-05-30T08:01:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510151256im_/https://pbs.twimg.com/profile_images/2053440458907631616/GVMolnoN_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79c5137260>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-30T08:06:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510151256im_/https://pbs.twimg.com/profile_images/2053440458907631616/GVMolnoN_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5803191520>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2050243518149636096/lalp9RN3_normal.jpg": {
       "status": "done",
@@ -2346,11 +2346,11 @@
       "last_updated": "2026-05-30T07:55:17"
     },
     "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260513114927_twitter_com_LastDinosaur23_status_2054529452185633033.json"
       ],
-      "last_updated": "2026-05-30T08:01:26",
+      "last_updated": "2026-05-30T08:06:11",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513114927im_/https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79c515a9c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 3
     },
@@ -2450,13 +2450,13 @@
       "last_updated": "2026-05-30T07:55:17"
     },
     "https://pbs.twimg.com/profile_images/2049910725519298560/vD65zElg_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260516092111_twitter_com_LastDinosaur23_status_2055579305288302861.json"
       ],
-      "last_updated": "2026-05-30T08:00:56",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260516092111if_/https://pbs.twimg.com/profile_images/2049910725519298560/vD65zElg_normal.jpg",
-      "miss_count": 2
+      "last_updated": "2026-05-30T08:06:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516092111im_/https://pbs.twimg.com/profile_images/2049910725519298560/vD65zElg_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f58031818e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2050602502027153408/qsJOFkPO_normal.jpg": {
       "status": "done",
@@ -2594,9 +2594,9 @@
       "referenced_by": [
         "20260519052959_twitter_com_LastDinosaur23_status_2056608285898522965.json"
       ],
-      "last_updated": "2026-05-30T07:55:18",
+      "last_updated": "2026-05-30T08:06:33",
       "last_reason": "无法识别 profile pid",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg": {
       "status": "done",
@@ -2626,9 +2626,9 @@
         "20260519160045_twitter_com_LastDinosaur23_status_2056767021233442958.json",
         "20260521110744_twitter_com_LastDinosaur23_status_2057418058256531893.json"
       ],
-      "last_updated": "2026-05-30T08:01:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521110744im_/https://pbs.twimg.com/profile_images/2052235062964633600/F1ECdq2-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79c515b290>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-30T08:06:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521110744im_/https://pbs.twimg.com/profile_images/2052235062964633600/F1ECdq2-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5803190440>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2055807652568158208/-HG1kGPD_normal.jpg": {
       "status": "failed",
@@ -2636,18 +2636,18 @@
         "20260519161158_twitter_com_LastDinosaur23_status_2056769842460717402.json",
         "20260520155325_twitter_com_LastDinosaur23_status_2057127564809060741.json"
       ],
-      "last_updated": "2026-05-30T08:01:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520155325im_/https://pbs.twimg.com/profile_images/2055807652568158208/-HG1kGPD_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79c51586e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-30T08:06:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520155325im_/https://pbs.twimg.com/profile_images/2055807652568158208/-HG1kGPD_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f58031800e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2054927495800242176/hHfS_LO-_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260520135958_twitter_com_LastDinosaur23_status_2057099011472113900.json"
       ],
-      "last_updated": "2026-05-30T08:01:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520135958im_/https://pbs.twimg.com/profile_images/2054927495800242176/hHfS_LO-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79c5134320>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-30T08:06:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520135958im_/https://pbs.twimg.com/profile_images/2054927495800242176/hHfS_LO-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f58031832f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/1927665929279967232/LYNDsqkz_normal.jpg": {
       "status": "done",
@@ -2661,9 +2661,9 @@
       "referenced_by": [
         "20260520161226_twitter_com_LastDinosaur23_status_2057132349671022983.json"
       ],
-      "last_updated": "2026-05-30T08:01:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520161226im_/https://pbs.twimg.com/profile_images/2056694847466250240/qUGNNVpo_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79c5171760>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-05-30T08:06:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520161226im_/https://pbs.twimg.com/profile_images/2056694847466250240/qUGNNVpo_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f580315bcb0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2026628026642153472/5ZROLnX6_normal.jpg": {
       "status": "done",
@@ -2737,7 +2737,7 @@
       "last_updated": "2026-05-30T07:55:16"
     },
     "20260506154913_twitter_com_LastDinosaur23_status_2052053075364642962.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -2746,7 +2746,7 @@
           "https://pbs.twimg.com/profile_images/2051857960901775360/8xZUrJPF_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-30T08:00:39",
+      "last_updated": "2026-05-30T08:05:51",
       "miss_count": 2
     },
     "20260506155505_twitter_com_LastDinosaur23_status_2052054551373684737.json": {
@@ -3171,7 +3171,7 @@
       "last_updated": "2026-05-30T07:55:16"
     },
     "20260509104848_twitter_com_LastDinosaur23_status_2053064638682788276.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3180,7 +3180,7 @@
           "https://pbs.twimg.com/profile_images/2053029866119786499/8dj4JRxs_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-30T08:00:39",
+      "last_updated": "2026-05-30T08:05:58",
       "miss_count": 2
     },
     "20260509104950_twitter_com_LastDinosaur23_status_2053064899002286485.json": {
@@ -3678,7 +3678,7 @@
       "last_updated": "2026-05-30T07:55:16"
     },
     "20260510102540_twitter_com_LastDinosaur23_status_2053421203050905840.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3687,7 +3687,7 @@
           "https://pbs.twimg.com/profile_images/2051166868161880064/S0zFnTWl_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-30T08:00:56",
+      "last_updated": "2026-05-30T08:06:07",
       "miss_count": 2
     },
     "20260510125145_twitter_com_LastDinosaur23_status_2053457968600096990.json": {
@@ -4398,7 +4398,7 @@
       "last_updated": "2026-05-30T07:55:17"
     },
     "20260513114927_twitter_com_LastDinosaur23_status_2054529452185633033.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -4408,7 +4408,7 @@
           "https://pbs.twimg.com/profile_images/2038830668533334016/ktouiTat_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-30T08:00:39",
+      "last_updated": "2026-05-30T08:06:11",
       "miss_count": 2
     },
     "20260514014649_twitter_com_LastDinosaur23_status_2054740183820734785.json": {
@@ -4623,7 +4623,7 @@
       "last_updated": "2026-05-30T07:55:17"
     },
     "20260516092111_twitter_com_LastDinosaur23_status_2055579305288302861.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -4632,7 +4632,7 @@
           "https://pbs.twimg.com/profile_images/2049910725519298560/vD65zElg_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-30T08:00:56",
+      "last_updated": "2026-05-30T08:06:16",
       "miss_count": 2
     },
     "20260516092954_twitter_com_LastDinosaur23_status_2055581499009941567.json": {
