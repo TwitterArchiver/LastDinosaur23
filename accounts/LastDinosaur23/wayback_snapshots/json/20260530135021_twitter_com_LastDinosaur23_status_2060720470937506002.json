@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060720457322807296"
+      ]
+    },
+    "author_id": "1779203068468531200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060720470937506002",
+    "created_at": "2026-05-30T13:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060720470937506002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F5ry7WK8hk",
+          "end": 27,
+          "expanded_url": "https://x.com/LastDinosaur23/status/2060720470937506002/photo/1",
+          "media_key": "3_2060720457322807296",
+          "start": 4,
+          "url": "https://t.co/F5ry7WK8hk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060720470937506002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "面包人 https://t.co/F5ry7WK8hk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060720457322807296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkmVngbQAAh9zC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060720457322807296"
+          ]
+        },
+        "author_id": "1779203068468531200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060720470937506002",
+        "created_at": "2026-05-30T13:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060720470937506002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5ry7WK8hk",
+              "end": 27,
+              "expanded_url": "https://x.com/LastDinosaur23/status/2060720470937506002/photo/1",
+              "media_key": "3_2060720457322807296",
+              "start": 4,
+              "url": "https://t.co/F5ry7WK8hk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060720470937506002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面包人 https://t.co/F5ry7WK8hk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 301,
+          "like_count": 2646,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 450
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      }
+    ]
+  }
+}

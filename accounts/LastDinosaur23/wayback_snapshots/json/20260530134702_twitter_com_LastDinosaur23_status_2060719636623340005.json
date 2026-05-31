@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2057323515477684340",
+    "created_at": "2026-05-30T13:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060719636623340005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748688710307115008",
+          "start": 0,
+          "username": "nine_and_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060719636623340005",
+    "in_reply_to_user_id": "1748688710307115008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057351713439535237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nine_and_9 遵命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2057323515477684340",
+        "created_at": "2026-05-30T13:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060719636623340005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748688710307115008",
+              "start": 0,
+              "username": "nine_and_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060719636623340005",
+        "in_reply_to_user_id": "1748688710307115008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057351713439535237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nine_and_9 遵命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748688710307115008",
+        "conversation_id": "2057323515477684340",
+        "created_at": "2026-05-21T06:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057351713439535237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779203068468531200",
+              "start": 0,
+              "username": "LastDinosaur23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057351713439535237",
+        "in_reply_to_user_id": "1779203068468531200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057323515477684340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastDinosaur23 赎罪吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 301,
+          "like_count": 2646,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 449
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T12:47:43.000Z",
+        "description": "",
+        "id": "1748688710307115008",
+        "name": "九某人",
+        "pinned_tweet_id": "2040311755105255633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748689466552942592/cN2J5xLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 213,
+          "like_count": 1886,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1174
+        },
+        "username": "nine_and_9",
+        "verified": true
+      }
+    ]
+  }
+}

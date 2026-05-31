@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2057323515477684340",
+    "created_at": "2026-05-30T13:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060719619686666710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885661060658855936",
+          "start": 0,
+          "username": "boluobingqiling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060719619686666710",
+    "in_reply_to_user_id": "1885661060658855936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057331151661052192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boluobingqiling 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2057323515477684340",
+        "created_at": "2026-05-30T13:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060719619686666710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885661060658855936",
+              "start": 0,
+              "username": "boluobingqiling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060719619686666710",
+        "in_reply_to_user_id": "1885661060658855936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057331151661052192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boluobingqiling 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885661060658855936",
+        "conversation_id": "2057323515477684340",
+        "created_at": "2026-05-21T05:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057331151661052192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779203068468531200",
+              "start": 0,
+              "username": "LastDinosaur23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057331151661052192",
+        "in_reply_to_user_id": "1779203068468531200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057323515477684340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastDinosaur23 你为什么那么有才华"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 301,
+          "like_count": 2646,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 449
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T12:06:58.000Z",
+        "description": "绯色月下，罪恶绝唱",
+        "id": "1885661060658855936",
+        "name": "#pInEaPpLeiCeCrEaM100%",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004370136174940164/xkqtd4KU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 37,
+          "like_count": 1742,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 632
+        },
+        "username": "boluobingqiling",
+        "verified": false
+      }
+    ]
+  }
+}
