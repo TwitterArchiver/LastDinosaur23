@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2060807196779114588",
+    "created_at": "2026-05-31T02:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T03:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060908798332780915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632832954421633029",
+          "start": 0,
+          "username": "482xxnay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060908798332780915",
+    "in_reply_to_user_id": "1632832954421633029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060807196779114588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@482xxnay 素颜也好米…很温和很近人🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1594,
+        "media_key": "3_2060807140369985537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJl1LPBXcAEXYLv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2060807140407644162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJl1LPKWEAILYJM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060807140428623872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJl1LPPWMAA62jK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060807140445478917",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJl1LPTXYAUtfTK.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2060807196779114588",
+        "created_at": "2026-05-31T02:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060908798332780915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632832954421633029",
+              "start": 0,
+              "username": "482xxnay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060908798332780915",
+        "in_reply_to_user_id": "1632832954421633029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060807196779114588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@482xxnay 素颜也好米…很温和很近人🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060807140369985537",
+            "3_2060807140407644162",
+            "3_2060807140428623872",
+            "3_2060807140445478917"
+          ]
+        },
+        "author_id": "1632832954421633029",
+        "conversation_id": "2060807196779114588",
+        "created_at": "2026-05-30T19:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060807196779114588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7WjTXHbWr",
+              "end": 35,
+              "expanded_url": "https://x.com/482xxnay/status/2060807196779114588/photo/1",
+              "media_key": "3_2060807140369985537",
+              "start": 12,
+              "url": "https://t.co/u7WjTXHbWr"
+            },
+            {
+              "display_url": "pic.x.com/u7WjTXHbWr",
+              "end": 35,
+              "expanded_url": "https://x.com/482xxnay/status/2060807196779114588/photo/1",
+              "media_key": "3_2060807140407644162",
+              "start": 12,
+              "url": "https://t.co/u7WjTXHbWr"
+            },
+            {
+              "display_url": "pic.x.com/u7WjTXHbWr",
+              "end": 35,
+              "expanded_url": "https://x.com/482xxnay/status/2060807196779114588/photo/1",
+              "media_key": "3_2060807140428623872",
+              "start": 12,
+              "url": "https://t.co/u7WjTXHbWr"
+            },
+            {
+              "display_url": "pic.x.com/u7WjTXHbWr",
+              "end": 35,
+              "expanded_url": "https://x.com/482xxnay/status/2060807196779114588/photo/1",
+              "media_key": "3_2060807140445478917",
+              "start": 12,
+              "url": "https://t.co/u7WjTXHbWr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060807196779114588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 603,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "化妆不化妆区别真的很大 https://t.co/u7WjTXHbWr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 303,
+          "like_count": 2663,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 460
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T19:58:19.000Z",
+        "description": "no way…！my life is so suck 自我生存娱乐空间 内可能含有NSFW 有SH pill 20+警告 they 我想复健产粮..懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和随时锁推 业余的很笨 有不对的请不要说我对异形勃起欢迎讨论 不会讨厌谁叫我什么都可以不会外语一切用翻译器人很佛",
+        "id": "1632832954421633029",
+        "name": "im gay（盐被肉鸦制2.0）",
+        "pinned_tweet_id": "2060229801282306383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 609,
+          "like_count": 4108,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 4363
+        },
+        "username": "482xxnay",
+        "verified": false
+      }
+    ]
+  }
+}
