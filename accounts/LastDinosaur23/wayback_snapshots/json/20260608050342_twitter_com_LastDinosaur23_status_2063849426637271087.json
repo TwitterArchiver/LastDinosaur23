@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2063658962680230199",
+    "created_at": "2026-06-08T05:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063849426637271087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055805806457868288",
+          "start": 0,
+          "username": "LindenWallis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063849426637271087",
+    "in_reply_to_user_id": "2055805806457868288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063658962680230199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LindenWallis 当毒虫的代价是原本被当作平静的生活变得枯燥无聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2063658962680230199",
+        "created_at": "2026-06-08T05:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063849426637271087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055805806457868288",
+              "start": 0,
+              "username": "LindenWallis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063849426637271087",
+        "in_reply_to_user_id": "2055805806457868288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063658962680230199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LindenWallis 当毒虫的代价是原本被当作平静的生活变得枯燥无聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055805806457868288",
+        "conversation_id": "2063658962680230199",
+        "created_at": "2026-06-07T16:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063658962680230199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycho_wiki/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/psycho_wiki/status/2063225808811172217",
+              "start": 14,
+              "url": "https://t.co/GyHOm5ntB4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063658962680230199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063225808811172217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "多巴胺系统被玩坏了blk： https://t.co/GyHOm5ntB4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 324,
+          "like_count": 3096,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 496
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T00:27:43.000Z",
+        "description": "Trans enby，he/they，ASD\n此号存放药物滥用相关",
+        "id": "2055805806457868288",
+        "name": "LxxWxx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058494468576387072/jVCIBMiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 29,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 183
+        },
+        "username": "LindenWallis",
+        "verified": false
+      }
+    ]
+  }
+}
