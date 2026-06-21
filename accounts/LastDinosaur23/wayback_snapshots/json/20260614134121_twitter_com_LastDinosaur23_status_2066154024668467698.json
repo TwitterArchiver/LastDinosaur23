@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2066146626868228247",
+    "created_at": "2026-06-14T13:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066154024668467698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2030245517473804290",
+          "start": 0,
+          "username": "ABlair93311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066154024668467698",
+    "in_reply_to_user_id": "2030245517473804290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066152751126778353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABlair93311 为什么要喜欢地雷女…我的感情是神圣的，不是那种下三滥的，下三滥的好摆脱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2066146626868228247",
+        "created_at": "2026-06-14T13:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066154024668467698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2030245517473804290",
+              "start": 0,
+              "username": "ABlair93311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066154024668467698",
+        "in_reply_to_user_id": "2030245517473804290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066152751126778353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABlair93311 为什么要喜欢地雷女…我的感情是神圣的，不是那种下三滥的，下三滥的好摆脱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030245517473804290",
+        "conversation_id": "2066146626868228247",
+        "created_at": "2026-06-14T13:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066152751126778353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779203068468531200",
+              "start": 0,
+              "username": "LastDinosaur23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066152751126778353",
+        "in_reply_to_user_id": "1779203068468531200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066150949710901461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastDinosaur23 身为人类的话得学会做出选择倒是。诶追地雷女的话我想的是，如果能成功的话学业前途也就不重要了。但是后来发现个人的意志其实起的作用很少，至少在人与人之间的关系上是这样。就像地雷女不喜欢我一样，我再怎么追也没办法和她贴贴。所以后来我就开始每天内卷，先抗苯乙胺的戒断（用普瑞戒苯乙胺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 342,
+          "like_count": 3180,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 510
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T11:33:58.000Z",
+        "description": "Watashiwa watashi",
+        "id": "2030245517473804290",
+        "location": "HongKong , China",
+        "name": "喵姆酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032071009059422209/2eSda8iP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 121,
+          "like_count": 7648,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 355
+        },
+        "username": "ABlair93311",
+        "verified": false
+      }
+    ]
+  }
+}
