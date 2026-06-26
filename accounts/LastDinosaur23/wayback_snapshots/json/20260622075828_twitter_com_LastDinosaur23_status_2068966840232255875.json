@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068966827187941376"
+      ]
+    },
+    "author_id": "1779203068468531200",
+    "conversation_id": "2068919153101242460",
+    "created_at": "2026-06-22T07:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068966840232255875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1799795163843436544",
+          "start": 0,
+          "username": "doobeetioog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r0mioGSzce",
+          "end": 36,
+          "expanded_url": "https://x.com/LastDinosaur23/status/2068966840232255875/photo/1",
+          "media_key": "3_2068966827187941376",
+          "start": 13,
+          "url": "https://t.co/r0mioGSzce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068966840232255875",
+    "in_reply_to_user_id": "1799795163843436544",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068919153101242460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doobeetioog https://t.co/r0mioGSzce"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2068966827187941376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZyXhKasAAem9D.jpg",
+        "width": 1350
+      },
+      {
+        "height": 960,
+        "media_key": "3_2068919138291224576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZG_qLbEAAzsCU.jpg",
+        "width": 675
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2068919146377777152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZHAITaEAABc1t.jpg",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068966827187941376"
+          ]
+        },
+        "author_id": "1779203068468531200",
+        "conversation_id": "2068919153101242460",
+        "created_at": "2026-06-22T07:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068966840232255875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "doobeetioog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0mioGSzce",
+              "end": 36,
+              "expanded_url": "https://x.com/LastDinosaur23/status/2068966840232255875/photo/1",
+              "media_key": "3_2068966827187941376",
+              "start": 13,
+              "url": "https://t.co/r0mioGSzce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068966840232255875",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068919153101242460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doobeetioog https://t.co/r0mioGSzce"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068919138291224576",
+            "3_2068919146377777152"
+          ]
+        },
+        "author_id": "1799795163843436544",
+        "conversation_id": "2068919153101242460",
+        "created_at": "2026-06-22T04:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068919153101242460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBPubfaDVr",
+              "end": 28,
+              "expanded_url": "https://x.com/doobeetioog/status/2068919153101242460/photo/1",
+              "media_key": "3_2068919138291224576",
+              "start": 5,
+              "url": "https://t.co/FBPubfaDVr"
+            },
+            {
+              "display_url": "pic.x.com/FBPubfaDVr",
+              "end": 28,
+              "expanded_url": "https://x.com/doobeetioog/status/2068919153101242460/photo/1",
+              "media_key": "3_2068919146377777152",
+              "start": 5,
+              "url": "https://t.co/FBPubfaDVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068919153101242460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "噢噢噢。 https://t.co/FBPubfaDVr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 351,
+          "like_count": 3331,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "•不混圈日常帳,ADHD/焦慮障礙生活經驗及藥理知識可討論\n •一些標籤: HeteroAce/afab/ESTP/ADHDer\n•友人:@sysjf0 @Cheese_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 69,
+                "username": "sysjf0"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "Cheese_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風の歌の中",
+        "name": "大犬小犬",
+        "pinned_tweet_id": "2007369704353169744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067133713595629568/MdCPP-KI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1019,
+          "like_count": 44078,
+          "listed_count": 1,
+          "media_count": 534,
+          "tweet_count": 9169
+        },
+        "url": "",
+        "username": "doobeetioog",
+        "verified": false
+      }
+    ]
+  }
+}
