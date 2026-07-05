@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2070829138471276959",
+    "created_at": "2026-06-28T05:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071104345157058646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1844356739539533829",
+          "start": 0,
+          "username": "xccpma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071104345157058646",
+    "in_reply_to_user_id": "1844356739539533829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070829138471276959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xccpma 抗组胺啊。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_2070829131106021376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0QH34a8AAgptD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2070829138471276959",
+        "created_at": "2026-06-28T05:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071104345157058646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844356739539533829",
+              "start": 0,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071104345157058646",
+        "in_reply_to_user_id": "1844356739539533829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070829138471276959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpma 抗组胺啊。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070829131106021376"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2070829138471276959",
+        "created_at": "2026-06-27T11:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070829138471276959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3mR68k3QSq",
+              "end": 69,
+              "expanded_url": "https://x.com/xccpma/status/2070829138471276959/photo/1",
+              "media_key": "3_2070829131106021376",
+              "start": 46,
+              "url": "https://t.co/3mR68k3QSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070829138471276959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 13221,
+          "like_count": 147,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "新药速报：加诺思®️多西拉敏片在国内上市，是第一代抗组胺药\n\n用于短期失眠，未列入管制目录 https://t.co/3mR68k3QSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”\n重焦，AuDHD，HRT2026.1.17",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 391,
+          "like_count": 3656,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 108,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

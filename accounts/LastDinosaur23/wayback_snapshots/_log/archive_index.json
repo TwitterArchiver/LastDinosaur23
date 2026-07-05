@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-06-28T06:07:02",
+  "last_updated": "2026-07-05T05:52:59",
   "html": {
     "https://web.archive.org/web/20260506121845if_/https://twitter.com/LastDinosaur23/status/2052000110633267550": {
       "status": "done",
@@ -1489,6 +1489,70 @@
     "https://web.archive.org/web/20260626135311if_/https://twitter.com/LastDinosaur23/status/2070505657649000453": {
       "status": "done",
       "last_updated": "2026-06-28T06:05:30"
+    },
+    "https://web.archive.org/web/20260628011134if_/https://twitter.com/LastDinosaur23/status/2071038766106739151": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:05"
+    },
+    "https://web.archive.org/web/20260628015815if_/https://twitter.com/LastDinosaur23/status/2071050513831895335": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:05"
+    },
+    "https://web.archive.org/web/20260628053133if_/https://twitter.com/LastDinosaur23/status/2071104193147072907": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:05"
+    },
+    "https://web.archive.org/web/20260628053209if_/https://twitter.com/LastDinosaur23/status/2071104345157058646": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:05"
+    },
+    "https://web.archive.org/web/20260628053411if_/https://twitter.com/LastDinosaur23/status/2071104855515746328": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:05"
+    },
+    "https://web.archive.org/web/20260628011153if_/https://twitter.com/LastDinosaur23/status/2071038846037565558": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:05"
+    },
+    "https://web.archive.org/web/20260628052847if_/https://twitter.com/LastDinosaur23/status/2071103494891986948": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:05"
+    },
+    "https://web.archive.org/web/20260628054041if_/https://twitter.com/LastDinosaur23/status/2071106491835461683": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:05"
+    },
+    "https://web.archive.org/web/20260628015600if_/https://twitter.com/LastDinosaur23/status/2071049949349892358": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:05"
+    },
+    "https://web.archive.org/web/20260629051636if_/https://twitter.com/LastDinosaur23/status/2071462819401273528": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:05"
+    },
+    "https://web.archive.org/web/20260630013557if_/https://twitter.com/LastDinosaur23/status/2071769678611911074": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:06"
+    },
+    "https://web.archive.org/web/20260629073840if_/https://twitter.com/LastDinosaur23/status/2071498571942167003": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:06"
+    },
+    "https://web.archive.org/web/20260630013607if_/https://twitter.com/LastDinosaur23/status/2071769719984496715": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:06"
+    },
+    "https://web.archive.org/web/20260629073928if_/https://twitter.com/LastDinosaur23/status/2071498770756370864": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:06"
+    },
+    "https://web.archive.org/web/20260630044110if_/https://twitter.com/LastDinosaur23/status/2071816290080272651": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:07"
+    },
+    "https://web.archive.org/web/20260630044557if_/https://twitter.com/LastDinosaur23/status/2071817493132566557": {
+      "status": "done",
+      "last_updated": "2026-07-05T05:52:07"
     }
   },
   "images": {
@@ -1530,18 +1594,18 @@
       "referenced_by": [
         "20260508100031_twitter_com_LastDinosaur23_status_2052690098031059217.json"
       ],
-      "last_updated": "2026-06-28T06:05:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508100031im_/https://pbs.twimg.com/media/HHx1VcYbgAAHQkN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb8abfb65a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 21
+      "last_updated": "2026-07-05T05:52:22",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508100031/https://pbs.twimg.com/media/HHx1VcYbgAAHQkN.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c3b35c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 23
     },
     "https://pbs.twimg.com/media/HHx1VcWagAAm_SN.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260508100031_twitter_com_LastDinosaur23_status_2052690098031059217.json"
       ],
-      "last_updated": "2026-06-28T06:05:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508100031im_/https://pbs.twimg.com/media/HHx1VcWagAAm_SN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb8abfe41a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 22
+      "last_updated": "2026-07-05T05:52:25",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508100031/https://pbs.twimg.com/media/HHx1VcWagAAm_SN.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c3b2a20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 24
     },
     "https://pbs.twimg.com/media/HHxoxC9aEAAXxJr.jpg": {
       "status": "done",
@@ -1699,9 +1763,9 @@
       "referenced_by": [
         "20260510044016_twitter_com_LastDinosaur23_status_2053334281049534628.json"
       ],
-      "last_updated": "2026-06-28T06:06:00",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510044016im_/https://pbs.twimg.com/media/HH67rt4bsAAeOjq.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb8abfb7050>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 22
+      "last_updated": "2026-07-05T05:52:28",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510044016/https://pbs.twimg.com/media/HH67rt4bsAAeOjq.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c3d8ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 24
     },
     "https://pbs.twimg.com/media/HH8otxPbMAAlsbw.jpg": {
       "status": "done",
@@ -1802,9 +1866,9 @@
         "20260512162114_twitter_com_LastDinosaur23_status_2054235460764061703.json",
         "20260512162258_twitter_com_LastDinosaur23_status_2054235899463086260.json"
       ],
-      "last_updated": "2026-06-28T06:06:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512162114im_/https://pbs.twimg.com/media/HIIcQXbakAAN1Cz.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb8abfb4080>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 33
+      "last_updated": "2026-07-05T05:52:31",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512162114/https://pbs.twimg.com/media/HIIcQXbakAAN1Cz.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c401490>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 36
     },
     "https://pbs.twimg.com/media/HILqUFybkAAXknT.jpg": {
       "status": "done",
@@ -1926,9 +1990,9 @@
       "referenced_by": [
         "20260518143701_twitter_com_LastDinosaur23_status_2056383559787860202.json"
       ],
-      "last_updated": "2026-06-28T06:06:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518143701im_/https://pbs.twimg.com/media/HIh56bkagAE8cWA.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb8abffd850>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 21
+      "last_updated": "2026-07-05T05:52:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518143701/https://pbs.twimg.com/media/HIh56bkagAE8cWA.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c3db2f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 23
     },
     "https://pbs.twimg.com/media/HIpi05wbIAA-DE9.jpg": {
       "status": "done",
@@ -1971,16 +2035,16 @@
       "referenced_by": [
         "20260520155325_twitter_com_LastDinosaur23_status_2057127564809060741.json"
       ],
-      "last_updated": "2026-06-28T06:05:30"
+      "last_updated": "2026-07-05T05:52:08"
     },
     "https://pbs.twimg.com/media/HIwSCskbEAA8d0a.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260520155325_twitter_com_LastDinosaur23_status_2057127564809060741.json"
       ],
-      "last_updated": "2026-06-28T06:06:14",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520155325im_/https://pbs.twimg.com/media/HIwSCskbEAA8d0a.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb8abffd820>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 21
+      "last_updated": "2026-07-05T05:52:38",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520155325/https://pbs.twimg.com/media/HIwSCskbEAA8d0a.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c3b2f90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 23
     },
     "https://pbs.twimg.com/media/HIxkSbUbUAES-we.jpg": {
       "status": "done",
@@ -2053,45 +2117,45 @@
       "referenced_by": [
         "20260530142305_twitter_com_LastDinosaur23_status_2060728708495986997.json"
       ],
-      "last_updated": "2026-06-28T06:06:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530142305im_/https://pbs.twimg.com/media/HJkrtp9bcAAqBw_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb8abfe5a60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-07-05T05:52:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530142305im_/https://pbs.twimg.com/media/HJkrtp9bcAAqBw_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2a6c4284a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/media/HJl1LPBXcAEXYLv.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260531021842_twitter_com_LastDinosaur23_status_2060908798332780915.json"
       ],
-      "last_updated": "2026-06-28T06:06:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842im_/https://pbs.twimg.com/media/HJl1LPBXcAEXYLv.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb8abfe5a90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 13
+      "last_updated": "2026-07-05T05:52:46",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842/https://pbs.twimg.com/media/HJl1LPBXcAEXYLv.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c4298e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 15
     },
     "https://pbs.twimg.com/media/HJl1LPKWEAILYJM.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260531021842_twitter_com_LastDinosaur23_status_2060908798332780915.json"
       ],
-      "last_updated": "2026-06-28T06:06:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842im_/https://pbs.twimg.com/media/HJl1LPKWEAILYJM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb8abffd6d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-07-05T05:52:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842im_/https://pbs.twimg.com/media/HJl1LPKWEAILYJM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2a6c4284a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/media/HJl1LPPWMAA62jK.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260531021842_twitter_com_LastDinosaur23_status_2060908798332780915.json"
       ],
-      "last_updated": "2026-06-28T06:06:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842im_/https://pbs.twimg.com/media/HJl1LPPWMAA62jK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb8abfe5010>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-07-05T05:52:54",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842/https://pbs.twimg.com/media/HJl1LPPWMAA62jK.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c4288f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/media/HJl1LPTXYAUtfTK.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260531021842_twitter_com_LastDinosaur23_status_2060908798332780915.json"
       ],
-      "last_updated": "2026-06-28T06:06:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842im_/https://pbs.twimg.com/media/HJl1LPTXYAUtfTK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb8abfe68d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-07-05T05:52:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842if_/https://pbs.twimg.com/media/HJl1LPTXYAUtfTK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2a6c3d86e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/media/HJzDMNma0AAYR52.jpg": {
       "status": "done",
@@ -2358,6 +2422,76 @@
         "20260624130528_twitter_com_LastDinosaur23_status_2069768874871205952.json"
       ],
       "last_updated": "2026-06-26T06:18:07"
+    },
+    "https://pbs.twimg.com/media/HL1jwPpboAAR1_G.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260628015600_twitter_com_LastDinosaur23_status_2071049949349892358.json"
+      ],
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "https://pbs.twimg.com/media/HL1jwPqbYAA8Q_W.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260628015600_twitter_com_LastDinosaur23_status_2071049949349892358.json"
+      ],
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "https://pbs.twimg.com/media/HLusubGaQAAp0fG.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260628015815_twitter_com_LastDinosaur23_status_2071050513831895335.json"
+      ],
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "https://pbs.twimg.com/media/HL34vRTaIAALx0J.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260628052847_twitter_com_LastDinosaur23_status_2071103494891986948.json"
+      ],
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "https://pbs.twimg.com/media/HL0QH34a8AAgptD.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260628053209_twitter_com_LastDinosaur23_status_2071104345157058646.json"
+      ],
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "https://pbs.twimg.com/media/HL6ahvHa8AAS3QK.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260629051636_twitter_com_LastDinosaur23_status_2071462819401273528.json"
+      ],
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "https://pbs.twimg.com/media/HL6ahvIbwAAUNvl.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260629051636_twitter_com_LastDinosaur23_status_2071462819401273528.json"
+      ],
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "https://pbs.twimg.com/media/HL6N4VvboAAZJRP.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260629073840_twitter_com_LastDinosaur23_status_2071498571942167003.json"
+      ],
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "https://pbs.twimg.com/media/HL9f_JGboAAj-eQ.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260629073928_twitter_com_LastDinosaur23_status_2071498770756370864.json"
+      ],
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "https://pbs.twimg.com/media/HL-rI29bAAAe0e_.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260630044557_twitter_com_LastDinosaur23_status_2071817493132566557.json"
+      ],
+      "last_updated": "2026-07-05T05:52:08"
     }
   },
   "videos": {
@@ -2789,7 +2923,23 @@
         "20260626135311_twitter_com_LastDinosaur23_status_2070505657649000453.json",
         "20260626140543_twitter_com_LastDinosaur23_status_2070508809957818592.json",
         "20260626140607_twitter_com_LastDinosaur23_status_2070508910432465035.json",
-        "20260626145313_twitter_com_LastDinosaur23_status_2070520764617621884.json"
+        "20260626145313_twitter_com_LastDinosaur23_status_2070520764617621884.json",
+        "20260628011134_twitter_com_LastDinosaur23_status_2071038766106739151.json",
+        "20260628011153_twitter_com_LastDinosaur23_status_2071038846037565558.json",
+        "20260628015600_twitter_com_LastDinosaur23_status_2071049949349892358.json",
+        "20260628015815_twitter_com_LastDinosaur23_status_2071050513831895335.json",
+        "20260628052847_twitter_com_LastDinosaur23_status_2071103494891986948.json",
+        "20260628053133_twitter_com_LastDinosaur23_status_2071104193147072907.json",
+        "20260628053209_twitter_com_LastDinosaur23_status_2071104345157058646.json",
+        "20260628053411_twitter_com_LastDinosaur23_status_2071104855515746328.json",
+        "20260628054041_twitter_com_LastDinosaur23_status_2071106491835461683.json",
+        "20260629051636_twitter_com_LastDinosaur23_status_2071462819401273528.json",
+        "20260629073840_twitter_com_LastDinosaur23_status_2071498571942167003.json",
+        "20260629073928_twitter_com_LastDinosaur23_status_2071498770756370864.json",
+        "20260630013557_twitter_com_LastDinosaur23_status_2071769678611911074.json",
+        "20260630013607_twitter_com_LastDinosaur23_status_2071769719984496715.json",
+        "20260630044110_twitter_com_LastDinosaur23_status_2071816290080272651.json",
+        "20260630044557_twitter_com_LastDinosaur23_status_2071817493132566557.json"
       ],
       "last_updated": "2026-05-30T07:55:16"
     },
@@ -2938,7 +3088,8 @@
         "20260614125526_twitter_com_LastDinosaur23_status_2066142468891201597.json",
         "20260616051809_twitter_com_LastDinosaur23_status_2066752165490913346.json",
         "20260624141131_twitter_com_LastDinosaur23_status_2069785494372876524.json",
-        "20260625044410_twitter_com_LastDinosaur23_status_2070005106926559335.json"
+        "20260625044410_twitter_com_LastDinosaur23_status_2070005106926559335.json",
+        "20260628052847_twitter_com_LastDinosaur23_status_2071103494891986948.json"
       ],
       "last_updated": "2026-05-30T07:55:16"
     },
@@ -2957,7 +3108,8 @@
         "20260614125420_twitter_com_LastDinosaur23_status_2066142193191117067.json",
         "20260618074631_twitter_com_LastDinosaur23_status_2067514278501072904.json",
         "20260626140543_twitter_com_LastDinosaur23_status_2070508809957818592.json",
-        "20260626140607_twitter_com_LastDinosaur23_status_2070508910432465035.json"
+        "20260626140607_twitter_com_LastDinosaur23_status_2070508910432465035.json",
+        "20260628053133_twitter_com_LastDinosaur23_status_2071104193147072907.json"
       ],
       "last_updated": "2026-05-30T07:55:16"
     },
@@ -3205,7 +3357,8 @@
       "status": "done",
       "referenced_by": [
         "20260510101431_twitter_com_LastDinosaur23_status_2053418397434859607.json",
-        "20260607150259_twitter_com_LastDinosaur23_status_2063637855491289382.json"
+        "20260607150259_twitter_com_LastDinosaur23_status_2063637855491289382.json",
+        "20260630044110_twitter_com_LastDinosaur23_status_2071816290080272651.json"
       ],
       "last_updated": "2026-05-30T07:55:16"
     },
@@ -3920,7 +4073,10 @@
         "20260622084304_twitter_com_LastDinosaur23_status_2068978061933224009.json",
         "20260622090146_twitter_com_LastDinosaur23_status_2068982769074725121.json",
         "20260625044025_twitter_com_LastDinosaur23_status_2070004161421410570.json",
-        "20260626145313_twitter_com_LastDinosaur23_status_2070520764617621884.json"
+        "20260626145313_twitter_com_LastDinosaur23_status_2070520764617621884.json",
+        "20260628011153_twitter_com_LastDinosaur23_status_2071038846037565558.json",
+        "20260629051636_twitter_com_LastDinosaur23_status_2071462819401273528.json",
+        "20260630013607_twitter_com_LastDinosaur23_status_2071769719984496715.json"
       ],
       "last_updated": "2026-06-09T06:17:03"
     },
@@ -4167,6 +4323,61 @@
         "20260626135311_twitter_com_LastDinosaur23_status_2070505657649000453.json"
       ],
       "last_updated": "2026-06-28T06:07:02"
+    },
+    "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260628015600_twitter_com_LastDinosaur23_status_2071049949349892358.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/1677188313172803585/BgYku_8H_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260628015815_twitter_com_LastDinosaur23_status_2071050513831895335.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260628053209_twitter_com_LastDinosaur23_status_2071104345157058646.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/1966263377233403904/aqrIK04U_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260628053411_twitter_com_LastDinosaur23_status_2071104855515746328.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2066349504065060864/1f_32sh2_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260628054041_twitter_com_LastDinosaur23_status_2071106491835461683.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260628054041_twitter_com_LastDinosaur23_status_2071106491835461683.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260629073840_twitter_com_LastDinosaur23_status_2071498571942167003.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260629073928_twitter_com_LastDinosaur23_status_2071498770756370864.json",
+        "20260630013557_twitter_com_LastDinosaur23_status_2071769678611911074.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260630044557_twitter_com_LastDinosaur23_status_2071817493132566557.json"
+      ]
     }
   },
   "media": {
@@ -4351,8 +4562,8 @@
           "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-28T06:06:47",
-      "miss_count": 20
+      "last_updated": "2026-07-05T05:52:17",
+      "miss_count": 21
     },
     "20260508112235_twitter_com_LastDinosaur23_status_2052710752801443967.json": {
       "status": "done",
@@ -4943,8 +5154,8 @@
           "https://pbs.twimg.com/profile_images/1712525810123550721/tq415zD9_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-28T06:06:47",
-      "miss_count": 20
+      "last_updated": "2026-07-05T05:52:11",
+      "miss_count": 21
     },
     "20260510045118_twitter_com_LastDinosaur23_status_2053337056584110176.json": {
       "status": "done",
@@ -5734,8 +5945,8 @@
           "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-28T06:06:47",
-      "miss_count": 19
+      "last_updated": "2026-07-05T05:52:12",
+      "miss_count": 20
     },
     "20260512162258_twitter_com_LastDinosaur23_status_2054235899463086260.json": {
       "status": "failed",
@@ -5748,8 +5959,8 @@
           "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-28T06:06:47",
-      "miss_count": 19
+      "last_updated": "2026-07-05T05:52:12",
+      "miss_count": 20
     },
     "20260513014644_twitter_com_LastDinosaur23_status_2054377774572593455.json": {
       "status": "done",
@@ -6533,8 +6744,8 @@
           "https://pbs.twimg.com/profile_images/2045097880177049600/8055mIda_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-28T06:06:47",
-      "miss_count": 18
+      "last_updated": "2026-07-05T05:52:12",
+      "miss_count": 19
     },
     "20260518143942_twitter_com_LastDinosaur23_status_2056384237235057052.json": {
       "status": "done",
@@ -7002,8 +7213,8 @@
           "https://pbs.twimg.com/profile_images/2055807652568158208/-HG1kGPD_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-28T06:06:47",
-      "miss_count": 20
+      "last_updated": "2026-07-05T05:52:13",
+      "miss_count": 21
     },
     "20260520161226_twitter_com_LastDinosaur23_status_2057132349671022983.json": {
       "status": "done",
@@ -7403,8 +7614,8 @@
           "https://pbs.twimg.com/profile_images/2058494468576387072/jVCIBMiG_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-28T06:06:47",
-      "miss_count": 12
+      "last_updated": "2026-07-05T05:52:12",
+      "miss_count": 13
     },
     "20260530144641_twitter_com_LastDinosaur23_status_2060734649744384487.json": {
       "status": "done",
@@ -7468,8 +7679,8 @@
           "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-28T06:06:47",
-      "miss_count": 12
+      "last_updated": "2026-07-05T05:52:19",
+      "miss_count": 13
     },
     "20260531091558_twitter_com_LastDinosaur23_status_2061013810132181208.json": {
       "status": "done",
@@ -8888,6 +9099,216 @@
         ]
       },
       "last_updated": "2026-06-28T06:05:30"
+    },
+    "20260628011134_twitter_com_LastDinosaur23_status_2071038766106739151.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:07"
+    },
+    "20260628011153_twitter_com_LastDinosaur23_status_2071038846037565558.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2062045921832300544/FeFvueDz_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:07"
+    },
+    "20260628015600_twitter_com_LastDinosaur23_status_2071049949349892358.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HL1jwPpboAAR1_G.jpg",
+          "https://pbs.twimg.com/media/HL1jwPqbYAA8Q_W.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "20260628015815_twitter_com_LastDinosaur23_status_2071050513831895335.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HLusubGaQAAp0fG.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/1677188313172803585/BgYku_8H_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "20260628052847_twitter_com_LastDinosaur23_status_2071103494891986948.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HL34vRTaIAALx0J.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/1748689466552942592/cN2J5xLR_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "20260628053133_twitter_com_LastDinosaur23_status_2071104193147072907.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:07"
+    },
+    "20260628053209_twitter_com_LastDinosaur23_status_2071104345157058646.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HL0QH34a8AAgptD.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "20260628053411_twitter_com_LastDinosaur23_status_2071104855515746328.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/1966263377233403904/aqrIK04U_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:07"
+    },
+    "20260628054041_twitter_com_LastDinosaur23_status_2071106491835461683.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2066349504065060864/1f_32sh2_normal.jpg",
+          "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:07"
+    },
+    "20260629051636_twitter_com_LastDinosaur23_status_2071462819401273528.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HL6ahvHa8AAS3QK.jpg",
+          "https://pbs.twimg.com/media/HL6ahvIbwAAUNvl.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2062045921832300544/FeFvueDz_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "20260629073840_twitter_com_LastDinosaur23_status_2071498571942167003.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HL6N4VvboAAZJRP.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "20260629073928_twitter_com_LastDinosaur23_status_2071498770756370864.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HL9f_JGboAAj-eQ.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:08"
+    },
+    "20260630013557_twitter_com_LastDinosaur23_status_2071769678611911074.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:07"
+    },
+    "20260630013607_twitter_com_LastDinosaur23_status_2071769719984496715.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2062045921832300544/FeFvueDz_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:07"
+    },
+    "20260630044110_twitter_com_LastDinosaur23_status_2071816290080272651.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:07"
+    },
+    "20260630044557_twitter_com_LastDinosaur23_status_2071817493132566557.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HL-rI29bAAAe0e_.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-05T05:52:08"
     }
   }
 }
