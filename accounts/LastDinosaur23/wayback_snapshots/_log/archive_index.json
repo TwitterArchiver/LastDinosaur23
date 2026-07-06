@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-05T05:53:22",
+  "last_updated": "2026-07-06T06:47:30",
   "html": {
     "https://web.archive.org/web/20260506121845if_/https://twitter.com/LastDinosaur23/status/2052000110633267550": {
       "status": "done",
@@ -1590,22 +1590,22 @@
       "last_updated": "2026-05-30T07:54:31"
     },
     "https://pbs.twimg.com/media/HHx1VcYbgAAHQkN.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260508100031_twitter_com_LastDinosaur23_status_2052690098031059217.json"
       ],
-      "last_updated": "2026-07-05T05:52:22",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508100031/https://pbs.twimg.com/media/HHx1VcYbgAAHQkN.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c3b35c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 23
+      "last_updated": "2026-07-06T06:46:49",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260508100031/https://pbs.twimg.com/media/HHx1VcYbgAAHQkN.jpg",
+      "miss_count": 24
     },
     "https://pbs.twimg.com/media/HHx1VcWagAAm_SN.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260508100031_twitter_com_LastDinosaur23_status_2052690098031059217.json"
       ],
-      "last_updated": "2026-07-05T05:52:25",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508100031/https://pbs.twimg.com/media/HHx1VcWagAAm_SN.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c3b2a20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 24
+      "last_updated": "2026-07-06T06:47:05",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508100031/https://pbs.twimg.com/media/HHx1VcWagAAm_SN.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3648046c60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 26
     },
     "https://pbs.twimg.com/media/HHxoxC9aEAAXxJr.jpg": {
       "status": "done",
@@ -1763,9 +1763,9 @@
       "referenced_by": [
         "20260510044016_twitter_com_LastDinosaur23_status_2053334281049534628.json"
       ],
-      "last_updated": "2026-07-05T05:52:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510044016/https://pbs.twimg.com/media/HH67rt4bsAAeOjq.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c3d8ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 24
+      "last_updated": "2026-07-06T06:47:08",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510044016/https://pbs.twimg.com/media/HH67rt4bsAAeOjq.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f36480bdcd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 26
     },
     "https://pbs.twimg.com/media/HH8otxPbMAAlsbw.jpg": {
       "status": "done",
@@ -1866,9 +1866,9 @@
         "20260512162114_twitter_com_LastDinosaur23_status_2054235460764061703.json",
         "20260512162258_twitter_com_LastDinosaur23_status_2054235899463086260.json"
       ],
-      "last_updated": "2026-07-05T05:52:31",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512162114/https://pbs.twimg.com/media/HIIcQXbakAAN1Cz.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c401490>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 36
+      "last_updated": "2026-07-06T06:47:11",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512162114/https://pbs.twimg.com/media/HIIcQXbakAAN1Cz.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f36480e4500>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 39
     },
     "https://pbs.twimg.com/media/HILqUFybkAAXknT.jpg": {
       "status": "done",
@@ -1990,9 +1990,9 @@
       "referenced_by": [
         "20260518143701_twitter_com_LastDinosaur23_status_2056383559787860202.json"
       ],
-      "last_updated": "2026-07-05T05:52:35",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518143701/https://pbs.twimg.com/media/HIh56bkagAE8cWA.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c3db2f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 23
+      "last_updated": "2026-07-06T06:47:14",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518143701/https://pbs.twimg.com/media/HIh56bkagAE8cWA.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3648109280>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 25
     },
     "https://pbs.twimg.com/media/HIpi05wbIAA-DE9.jpg": {
       "status": "done",
@@ -2035,16 +2035,16 @@
       "referenced_by": [
         "20260520155325_twitter_com_LastDinosaur23_status_2057127564809060741.json"
       ],
-      "last_updated": "2026-07-05T05:52:08"
+      "last_updated": "2026-07-06T06:46:46"
     },
     "https://pbs.twimg.com/media/HIwSCskbEAA8d0a.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260520155325_twitter_com_LastDinosaur23_status_2057127564809060741.json"
       ],
-      "last_updated": "2026-07-05T05:52:38",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520155325/https://pbs.twimg.com/media/HIwSCskbEAA8d0a.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c3b2f90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 23
+      "last_updated": "2026-07-06T06:46:50",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260520155325/https://pbs.twimg.com/media/HIwSCskbEAA8d0a.jpg",
+      "miss_count": 24
     },
     "https://pbs.twimg.com/media/HIxkSbUbUAES-we.jpg": {
       "status": "done",
@@ -2117,45 +2117,45 @@
       "referenced_by": [
         "20260530142305_twitter_com_LastDinosaur23_status_2060728708495986997.json"
       ],
-      "last_updated": "2026-07-05T05:52:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530142305im_/https://pbs.twimg.com/media/HJkrtp9bcAAqBw_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2a6c4284a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 16
+      "last_updated": "2026-07-06T06:47:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530142305/https://pbs.twimg.com/media/HJkrtp9bcAAqBw_.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f36480be1b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 18
     },
     "https://pbs.twimg.com/media/HJl1LPBXcAEXYLv.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260531021842_twitter_com_LastDinosaur23_status_2060908798332780915.json"
       ],
-      "last_updated": "2026-07-05T05:52:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842/https://pbs.twimg.com/media/HJl1LPBXcAEXYLv.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c4298e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 15
+      "last_updated": "2026-07-06T06:47:21",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842/https://pbs.twimg.com/media/HJl1LPBXcAEXYLv.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f36480e4260>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 17
     },
     "https://pbs.twimg.com/media/HJl1LPKWEAILYJM.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260531021842_twitter_com_LastDinosaur23_status_2060908798332780915.json"
       ],
-      "last_updated": "2026-07-05T05:52:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842im_/https://pbs.twimg.com/media/HJl1LPKWEAILYJM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2a6c4284a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 16
+      "last_updated": "2026-07-06T06:47:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842/https://pbs.twimg.com/media/HJl1LPKWEAILYJM.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f364810a3c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 18
     },
     "https://pbs.twimg.com/media/HJl1LPPWMAA62jK.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260531021842_twitter_com_LastDinosaur23_status_2060908798332780915.json"
       ],
-      "last_updated": "2026-07-05T05:52:54",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842/https://pbs.twimg.com/media/HJl1LPPWMAA62jK.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2a6c4288f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 16
+      "last_updated": "2026-07-06T06:47:27",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842/https://pbs.twimg.com/media/HJl1LPPWMAA62jK.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f36480bc980>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 18
     },
     "https://pbs.twimg.com/media/HJl1LPTXYAUtfTK.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260531021842_twitter_com_LastDinosaur23_status_2060908798332780915.json"
       ],
-      "last_updated": "2026-07-05T05:52:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842if_/https://pbs.twimg.com/media/HJl1LPTXYAUtfTK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2a6c3d86e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 16
+      "last_updated": "2026-07-06T06:47:30",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531021842/https://pbs.twimg.com/media/HJl1LPTXYAUtfTK.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f36480bf500>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 18
     },
     "https://pbs.twimg.com/media/HJzDMNma0AAYR52.jpg": {
       "status": "done",
@@ -4571,8 +4571,8 @@
           "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T05:53:11",
-      "miss_count": 22
+      "last_updated": "2026-07-06T06:46:52",
+      "miss_count": 23
     },
     "20260508112235_twitter_com_LastDinosaur23_status_2052710752801443967.json": {
       "status": "done",
@@ -5163,8 +5163,8 @@
           "https://pbs.twimg.com/profile_images/1712525810123550721/tq415zD9_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T05:53:11",
-      "miss_count": 22
+      "last_updated": "2026-07-06T06:46:50",
+      "miss_count": 23
     },
     "20260510045118_twitter_com_LastDinosaur23_status_2053337056584110176.json": {
       "status": "done",
@@ -5954,8 +5954,8 @@
           "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T05:53:11",
-      "miss_count": 21
+      "last_updated": "2026-07-06T06:46:51",
+      "miss_count": 22
     },
     "20260512162258_twitter_com_LastDinosaur23_status_2054235899463086260.json": {
       "status": "failed",
@@ -5968,7 +5968,7 @@
           "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T05:53:11",
+      "last_updated": "2026-07-06T06:46:51",
       "miss_count": 21
     },
     "20260513014644_twitter_com_LastDinosaur23_status_2054377774572593455.json": {
@@ -6753,8 +6753,8 @@
           "https://pbs.twimg.com/profile_images/2045097880177049600/8055mIda_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T05:53:11",
-      "miss_count": 20
+      "last_updated": "2026-07-06T06:46:50",
+      "miss_count": 21
     },
     "20260518143942_twitter_com_LastDinosaur23_status_2056384237235057052.json": {
       "status": "done",
@@ -7210,7 +7210,7 @@
       "last_updated": "2026-05-30T07:55:18"
     },
     "20260520155325_twitter_com_LastDinosaur23_status_2057127564809060741.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HIxim1ya0AAZ9Xu.jpg",
@@ -7222,7 +7222,7 @@
           "https://pbs.twimg.com/profile_images/2055807652568158208/-HG1kGPD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T05:53:11",
+      "last_updated": "2026-07-06T06:46:50",
       "miss_count": 22
     },
     "20260520161226_twitter_com_LastDinosaur23_status_2057132349671022983.json": {
@@ -7623,8 +7623,8 @@
           "https://pbs.twimg.com/profile_images/2058494468576387072/jVCIBMiG_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T05:53:11",
-      "miss_count": 14
+      "last_updated": "2026-07-06T06:46:51",
+      "miss_count": 15
     },
     "20260530144641_twitter_com_LastDinosaur23_status_2060734649744384487.json": {
       "status": "done",
@@ -7688,8 +7688,8 @@
           "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T05:53:11",
-      "miss_count": 14
+      "last_updated": "2026-07-06T06:47:02",
+      "miss_count": 15
     },
     "20260531091558_twitter_com_LastDinosaur23_status_2061013810132181208.json": {
       "status": "done",
