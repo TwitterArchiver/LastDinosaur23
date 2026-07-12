@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T05:14:01",
+  "last_updated": "2026-07-12T05:14:14",
   "html": {
     "https://web.archive.org/web/20260506121845if_/https://twitter.com/LastDinosaur23/status/2052000110633267550": {
       "status": "done",
@@ -2756,10 +2756,11 @@
       "last_updated": "2026-06-09T06:16:52"
     },
     "https://video.twimg.com/amplify_video/2073846341051301888/vid/avc1/720x1280/mxoD5I0AxA9Pq5f4.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260706104202_twitter_com_LastDinosaur23_status_2074081432809693459.json"
-      ]
+      ],
+      "last_updated": "2026-07-12T05:14:14"
     }
   },
   "avatars": {
@@ -4939,8 +4940,8 @@
           "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:09",
-      "miss_count": 25
+      "last_updated": "2026-07-12T05:14:14",
+      "miss_count": 26
     },
     "20260508112235_twitter_com_LastDinosaur23_status_2052710752801443967.json": {
       "status": "done",
@@ -5531,8 +5532,8 @@
           "https://pbs.twimg.com/profile_images/1712525810123550721/tq415zD9_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:06",
-      "miss_count": 25
+      "last_updated": "2026-07-12T05:14:14",
+      "miss_count": 26
     },
     "20260510045118_twitter_com_LastDinosaur23_status_2053337056584110176.json": {
       "status": "done",
@@ -6322,8 +6323,8 @@
           "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:06",
-      "miss_count": 24
+      "last_updated": "2026-07-12T05:14:14",
+      "miss_count": 25
     },
     "20260512162258_twitter_com_LastDinosaur23_status_2054235899463086260.json": {
       "status": "failed",
@@ -6336,8 +6337,8 @@
           "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:06",
-      "miss_count": 23
+      "last_updated": "2026-07-12T05:14:14",
+      "miss_count": 24
     },
     "20260513014644_twitter_com_LastDinosaur23_status_2054377774572593455.json": {
       "status": "done",
@@ -7121,8 +7122,8 @@
           "https://pbs.twimg.com/profile_images/2045097880177049600/8055mIda_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:05",
-      "miss_count": 23
+      "last_updated": "2026-07-12T05:14:14",
+      "miss_count": 24
     },
     "20260518143942_twitter_com_LastDinosaur23_status_2056384237235057052.json": {
       "status": "done",
@@ -7991,8 +7992,8 @@
           "https://pbs.twimg.com/profile_images/2058494468576387072/jVCIBMiG_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:06",
-      "miss_count": 17
+      "last_updated": "2026-07-12T05:14:14",
+      "miss_count": 18
     },
     "20260530144641_twitter_com_LastDinosaur23_status_2060734649744384487.json": {
       "status": "done",
@@ -8056,8 +8057,8 @@
           "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:17",
-      "miss_count": 17
+      "last_updated": "2026-07-12T05:14:14",
+      "miss_count": 18
     },
     "20260531091558_twitter_com_LastDinosaur23_status_2061013810132181208.json": {
       "status": "done",
@@ -9722,7 +9723,7 @@
           "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260704124714_twitter_com_LastDinosaur23_status_2073388162072850854.json": {
       "status": "done",
@@ -9746,7 +9747,7 @@
           "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260704125500_twitter_com_LastDinosaur23_status_2073390119265206362.json": {
       "status": "done",
@@ -9867,7 +9868,7 @@
           "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260704140935_twitter_com_LastDinosaur23_status_2073408889169891537.json": {
       "status": "unknown",
@@ -9879,7 +9880,7 @@
           "https://pbs.twimg.com/profile_images/1911372021818130432/bGZOsrQn_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260704141638_twitter_com_LastDinosaur23_status_2073410660315312634.json": {
       "status": "unknown",
@@ -9891,7 +9892,7 @@
           "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260704143206_twitter_com_LastDinosaur23_status_2073414555355812071.json": {
       "status": "done",
@@ -9915,7 +9916,7 @@
           "https://pbs.twimg.com/profile_images/1911372021818130432/bGZOsrQn_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260705085857_twitter_com_LastDinosaur23_status_2073693101756158163.json": {
       "status": "done",
@@ -9938,7 +9939,7 @@
           "https://pbs.twimg.com/profile_images/1620952666728992768/ynwiKGFA_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260705090117_twitter_com_LastDinosaur23_status_2073693687121617332.json": {
       "status": "unknown",
@@ -9950,7 +9951,7 @@
           "https://pbs.twimg.com/profile_images/1993751386253873154/Ee5cRUlC_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260705090133_twitter_com_LastDinosaur23_status_2073693756130525228.json": {
       "status": "unknown",
@@ -9962,7 +9963,7 @@
           "https://pbs.twimg.com/profile_images/2044266498173321216/b98Qhpg6_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260705090148_twitter_com_LastDinosaur23_status_2073693820861157673.json": {
       "status": "done",
@@ -9998,7 +9999,7 @@
           "https://pbs.twimg.com/profile_images/1620952666728992768/ynwiKGFA_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260705090801_twitter_com_LastDinosaur23_status_2073695383939858620.json": {
       "status": "unknown",
@@ -10012,7 +10013,7 @@
           "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260705091051_twitter_com_LastDinosaur23_status_2073696097298678205.json": {
       "status": "unknown",
@@ -10024,7 +10025,7 @@
           "https://pbs.twimg.com/profile_images/1620952666728992768/ynwiKGFA_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260705101522_twitter_com_LastDinosaur23_status_2073712331830558868.json": {
       "status": "unknown",
@@ -10038,7 +10039,7 @@
           "https://pbs.twimg.com/profile_images/2072947759762837504/pdIonpQZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260706100218_twitter_com_LastDinosaur23_status_2074071433916100638.json": {
       "status": "unknown",
@@ -10052,7 +10053,7 @@
           "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260706104121_twitter_com_LastDinosaur23_status_2074081261115916763.json": {
       "status": "unknown",
@@ -10064,10 +10065,10 @@
           "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260706104202_twitter_com_LastDinosaur23_status_2074081432809693459.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -10078,7 +10079,7 @@
           "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260706121621_twitter_com_LastDinosaur23_status_2074105166127919296.json": {
       "status": "unknown",
@@ -10092,7 +10093,7 @@
           "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260707045700_twitter_com_LastDinosaur23_status_2074356987362681317.json": {
       "status": "unknown",
@@ -10106,7 +10107,7 @@
           "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260707050909_twitter_com_LastDinosaur23_status_2074360045635334463.json": {
       "status": "unknown",
@@ -10120,7 +10121,7 @@
           "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T05:13:02"
+      "last_updated": "2026-07-12T05:14:14"
     },
     "20260707095752_twitter_com_LastDinosaur23_status_2074432705287352531.json": {
       "status": "done",
