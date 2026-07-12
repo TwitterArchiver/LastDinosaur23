@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2073394801425494270",
+    "created_at": "2026-07-05T09:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073693687121617332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880427757014044673",
+          "start": 0,
+          "username": "BenjaminRandaoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073693687121617332",
+    "in_reply_to_user_id": "1880427757014044673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073521409234812951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BenjaminRandaoq 做人要有追求（…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2073394801425494270",
+        "created_at": "2026-07-05T09:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073693687121617332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880427757014044673",
+              "start": 0,
+              "username": "BenjaminRandaoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073693687121617332",
+        "in_reply_to_user_id": "1880427757014044673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073521409234812951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BenjaminRandaoq 做人要有追求（…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880427757014044673",
+        "conversation_id": "2073394801425494270",
+        "created_at": "2026-07-04T21:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T22:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073521409234812951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779203068468531200",
+              "start": 0,
+              "username": "LastDinosaur23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073521409234812951",
+        "in_reply_to_user_id": "1779203068468531200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073394801425494270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastDinosaur23 难道被苍蝇蚊子歪瓜裂枣追着跑很荣幸？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”\n重焦，AuDHD，HRT2026.1.17",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 401,
+          "like_count": 4103,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T01:31:40.000Z",
+        "description": "幽默学佛人南无阿弥陀\n吃喝嫖赌抽财色名食睡\n养成系大V  GlobalGUY\n你先别讲话先让我讲话\n有话我先讲要不你先说\n人帅性格好慈悲又冷漠\nFollow me！\nFocus on :Trading System，BrandNew B to C ，AI VALUE，Mankindvalue\n&BeLove",
+        "id": "1880427757014044673",
+        "location": "   ",
+        "name": "Flux(潜龍勿用学佛版)",
+        "pinned_tweet_id": "2072920485135081861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993751386253873154/Ee5cRUlC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 118,
+          "like_count": 780,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1695
+        },
+        "url": "",
+        "username": "BenjaminRandaoq",
+        "verified": true
+      }
+    ]
+  }
+}

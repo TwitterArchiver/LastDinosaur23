@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2072484208241787340",
+    "created_at": "2026-07-04T12:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073385393458958577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1919266691730804736",
+          "start": 0,
+          "username": "a693131829"
+        },
+        {
+          "end": 19,
+          "id": "1902568136450424832",
+          "start": 12,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073385393458958577",
+    "in_reply_to_user_id": "1919266691730804736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072912064515801561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a693131829 @aoim33 你太懂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2072484208241787340",
+        "created_at": "2026-07-04T12:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073385393458958577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1919266691730804736",
+              "start": 0,
+              "username": "a693131829"
+            },
+            {
+              "end": 19,
+              "id": "1902568136450424832",
+              "start": 12,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073385393458958577",
+        "in_reply_to_user_id": "1919266691730804736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072912064515801561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a693131829 @aoim33 你太懂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919266691730804736",
+        "conversation_id": "2072484208241787340",
+        "created_at": "2026-07-03T05:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072912064515801561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072912064515801561",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072484208241787340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 那就成为妈妈一样的女人！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”\n重焦，AuDHD，HRT2026.1.17",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 401,
+          "like_count": 3990,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 568
+        },
+        "url": "",
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T05:44:04.000Z",
+        "description": "东北满虫出东北一米自动死一个东北妈 请老老实实建设你的满洲别全世界偷渡\n\n周一屠母畜周二阉田力周三操阴阳人周四猎黑鬼周五跟我以色列好兄弟去轰炸炸弹人\n周末出去旅游放松\n365X24全天候灭支non stop",
+        "id": "1919266691730804736",
+        "location": "东北狗窝",
+        "name": "东北满虫防治支式会社",
+        "pinned_tweet_id": "2023371698322780568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057323605827239936/F7tH9eMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 3,
+          "like_count": 278,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 1097
+        },
+        "url": "",
+        "username": "a693131829",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6395,
+          "following_count": 3098,
+          "like_count": 54843,
+          "listed_count": 21,
+          "media_count": 3451,
+          "tweet_count": 14195
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

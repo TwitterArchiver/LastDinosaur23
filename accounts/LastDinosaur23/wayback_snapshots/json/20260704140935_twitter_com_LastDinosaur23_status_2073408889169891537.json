@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2073394801425494270",
+    "created_at": "2026-07-04T14:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073408889169891537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1630937244960952325",
+          "start": 0,
+          "username": "songbenwenji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073408889169891537",
+    "in_reply_to_user_id": "1630937244960952325",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073408662312452249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@songbenwenji 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2073394801425494270",
+        "created_at": "2026-07-04T14:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073408889169891537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1630937244960952325",
+              "start": 0,
+              "username": "songbenwenji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073408889169891537",
+        "in_reply_to_user_id": "1630937244960952325",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073408662312452249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@songbenwenji 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630937244960952325",
+        "conversation_id": "2073394801425494270",
+        "created_at": "2026-07-04T14:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073408662312452249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779203068468531200",
+              "start": 0,
+              "username": "LastDinosaur23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073408662312452249",
+        "in_reply_to_user_id": "1779203068468531200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073394801425494270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastDinosaur23 那男的呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”\n重焦，AuDHD，HRT2026.1.17",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 402,
+          "like_count": 4081,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-01T14:25:28.000Z",
+        "description": "这个人真的很无聊，没什么好看的",
+        "id": "1630937244960952325",
+        "name": "松本文纪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911372021818130432/bGZOsrQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 439,
+          "like_count": 8590,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2024
+        },
+        "url": "",
+        "username": "songbenwenji",
+        "verified": false
+      }
+    ]
+  }
+}
