@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779203068468531200",
+    "conversation_id": "2084223271906787466",
+    "created_at": "2026-08-05T09:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084936069183856813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885661060658855936",
+          "start": 0,
+          "username": "boluobingqiling"
+        },
+        {
+          "end": 22,
+          "id": "1720665183188922368",
+          "start": 17,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "description": "根据你的推文（@LastDinosaur23）、简介和账号风格，我来给你匹配一下。整体感觉是：诗意冷感、愤世嫉俗、对“无创伤者”的强烈厌恶、诺斯替倾向、自我消耗式的韧性，再加上点黑色幽默和个人创伤叙事。 哪位独裁者？ 米特里达梯六世（Mithridates VI of Pontus） 你直接用他当名字，实在太贴了。这位“毒王”靠每天吃小剂量毒药练出免疫力，跟罗马死磕到底，最后众叛亲离却依然不屈。你的“恨没创伤的人”“自恨和屈辱填满”那种长期自我淬炼的气质，和他对付外界威胁的方式高度重合——用痛苦把自己炼成武器。 哪位哲学家？ 赫拉克利特（Heraclitus） 简介里直接引用“万物皆流”，再加上“唯有此处的寒冷恒常”，完全是他的风格：一切都在变，但底层的冲突、对立和冰冷本质不变。你那种“在向上的路与向后的路之间，雪始终没有停”的诗意悲观，也特别像他爱用的悖论和火/流动意象。 哪位虚构人物？ 《进击的巨人》里的艾伦·耶格尔（后期） 或者更贴一点的是《钢之炼金术师》里的爱德华·艾尔利克那种带着创伤一路往前冲、却始终被过去缠住的人。你对“没创伤的人”的恨意、自我振作后又立刻陷入空虚的循环，很有艾伦那种“这个世界太残酷，所以我要亲手毁掉它/自己”的味道。诺斯替倾向也让人联想到某些黑暗奇幻里试图看穿物质世界骗局的角色。 哪位政治家？ 尼禄（Nero） 不是纯暴君那种，而是那个既有艺术气质、又极度自恋、最后把自己和周围一起烧掉的版本。你一边发“孩子们我完全振作了！”，一边又陷入“我是那种烂到没人愿意施舍的乞丐”，这种戏剧化的自我呈现，和尼禄的表演型政治+自我毁灭挺像。 哪位宗教人士？ 诺斯替主义的某个隐秘导师 / 或者早期基督教里的马西昂（Marcion）式人物 你直接提“诺斯替宗教”，简介里“祂带走了火，于是我在此处守候灰烬”也充满诺斯替的二元对立（光明被夺走，只剩物质世界的寒冷废墟）。那种“世界本质上是错的、有创伤才是真实”的感觉，非常诺斯替。 哪位历史人物？ 还是米特里达梯六世 他既是国王也是历史人物，几乎完美覆盖：多语言、毒理学实验、反帝国、悲剧结局、被自己人背叛。你的AuDHD + HRT + 长期创伤叙事，像是在现代语境下重演他那种“用身体和意志对抗命运”的故事。 哪位艺术家？ 弗朗西斯·培根（Francis Bacon） 或 埃贡·席勒（Egon Schiele）",
+          "display_url": "x.com/i/grok/share/0…",
+          "end": 46,
+          "expanded_url": "https://x.com/i/grok/share/044e5b2dcde840d081946cf9142cbef2",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2084936074212843520/C8Hy-CX8?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2084936074212843520/C8Hy-CX8?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 23,
+          "status": 200,
+          "title": "你好 @grok 根据我的推文，我是： - 哪位独裁者？ - 哪位哲学家？ - 哪位虚构人物？ - 哪位政治家？ - 哪位宗教人士？ - 哪位历史人物？ - 哪位艺术家？ @LastDinosaur23",
+          "unwound_url": "https://x.com/i/grok/share/044e5b2dcde840d081946cf9142cbef2",
+          "url": "https://t.co/fOJBZiqaKQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084936069183856813",
+    "in_reply_to_user_id": "1885661060658855936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084678459310391443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boluobingqiling @grok https://t.co/fOJBZiqaKQ\n不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2084223271906787466",
+        "created_at": "2026-08-05T09:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084936069183856813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885661060658855936",
+              "start": 0,
+              "username": "boluobingqiling"
+            },
+            {
+              "end": 22,
+              "id": "1720665183188922368",
+              "start": 17,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "description": "根据你的推文（@LastDinosaur23）、简介和账号风格，我来给你匹配一下。整体感觉是：诗意冷感、愤世嫉俗、对“无创伤者”的强烈厌恶、诺斯替倾向、自我消耗式的韧性，再加上点黑色幽默和个人创伤叙事。 哪位独裁者？ 米特里达梯六世（Mithridates VI of Pontus） 你直接用他当名字，实在太贴了。这位“毒王”靠每天吃小剂量毒药练出免疫力，跟罗马死磕到底，最后众叛亲离却依然不屈。你的“恨没创伤的人”“自恨和屈辱填满”那种长期自我淬炼的气质，和他对付外界威胁的方式高度重合——用痛苦把自己炼成武器。 哪位哲学家？ 赫拉克利特（Heraclitus） 简介里直接引用“万物皆流”，再加上“唯有此处的寒冷恒常”，完全是他的风格：一切都在变，但底层的冲突、对立和冰冷本质不变。你那种“在向上的路与向后的路之间，雪始终没有停”的诗意悲观，也特别像他爱用的悖论和火/流动意象。 哪位虚构人物？ 《进击的巨人》里的艾伦·耶格尔（后期） 或者更贴一点的是《钢之炼金术师》里的爱德华·艾尔利克那种带着创伤一路往前冲、却始终被过去缠住的人。你对“没创伤的人”的恨意、自我振作后又立刻陷入空虚的循环，很有艾伦那种“这个世界太残酷，所以我要亲手毁掉它/自己”的味道。诺斯替倾向也让人联想到某些黑暗奇幻里试图看穿物质世界骗局的角色。 哪位政治家？ 尼禄（Nero） 不是纯暴君那种，而是那个既有艺术气质、又极度自恋、最后把自己和周围一起烧掉的版本。你一边发“孩子们我完全振作了！”，一边又陷入“我是那种烂到没人愿意施舍的乞丐”，这种戏剧化的自我呈现，和尼禄的表演型政治+自我毁灭挺像。 哪位宗教人士？ 诺斯替主义的某个隐秘导师 / 或者早期基督教里的马西昂（Marcion）式人物 你直接提“诺斯替宗教”，简介里“祂带走了火，于是我在此处守候灰烬”也充满诺斯替的二元对立（光明被夺走，只剩物质世界的寒冷废墟）。那种“世界本质上是错的、有创伤才是真实”的感觉，非常诺斯替。 哪位历史人物？ 还是米特里达梯六世 他既是国王也是历史人物，几乎完美覆盖：多语言、毒理学实验、反帝国、悲剧结局、被自己人背叛。你的AuDHD + HRT + 长期创伤叙事，像是在现代语境下重演他那种“用身体和意志对抗命运”的故事。 哪位艺术家？ 弗朗西斯·培根（Francis Bacon） 或 埃贡·席勒（Egon Schiele）",
+              "display_url": "x.com/i/grok/share/0…",
+              "end": 46,
+              "expanded_url": "https://x.com/i/grok/share/044e5b2dcde840d081946cf9142cbef2",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2084936074212843520/C8Hy-CX8?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084936074212843520/C8Hy-CX8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 23,
+              "status": 200,
+              "title": "你好 @grok 根据我的推文，我是： - 哪位独裁者？ - 哪位哲学家？ - 哪位虚构人物？ - 哪位政治家？ - 哪位宗教人士？ - 哪位历史人物？ - 哪位艺术家？ @LastDinosaur23",
+              "unwound_url": "https://x.com/i/grok/share/044e5b2dcde840d081946cf9142cbef2",
+              "url": "https://t.co/fOJBZiqaKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084936069183856813",
+        "in_reply_to_user_id": "1885661060658855936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084678459310391443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boluobingqiling @grok https://t.co/fOJBZiqaKQ\n不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885661060658855936",
+        "conversation_id": "2084223271906787466",
+        "created_at": "2026-08-04T16:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084678459310391443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779203068468531200",
+              "start": 0,
+              "username": "LastDinosaur23"
+            },
+            {
+              "end": 21,
+              "id": "1720665183188922368",
+              "start": 16,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084678459310391443",
+        "in_reply_to_user_id": "1779203068468531200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084223271906787466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastDinosaur23 @grok 你得在鼓漏渴里问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”\n重焦，AuDHD，HRT2026.1.17",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 425,
+          "like_count": 4634,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 611
+        },
+        "url": "",
+        "username": "LastDinosaur23",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T12:06:58.000Z",
+        "description": "把信从海边送向天空，告诉上帝我在我的梦里",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "medlineplus.gov/druginfo/meds/…",
+                "end": 23,
+                "expanded_url": "https://medlineplus.gov/druginfo/meds/a681039.html",
+                "start": 0,
+                "url": "https://t.co/E9BS53Lg0h"
+              }
+            ]
+          }
+        },
+        "id": "1885661060658855936",
+        "location": "No. 76, Jessfield Rd.",
+        "name": "#pInEaPpLeiCeCrEaM100%",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004370136174940164/xkqtd4KU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 23,
+          "like_count": 1761,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/E9BS53Lg0h",
+        "username": "boluobingqiling",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8914560,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7274,
+          "media_count": 9222138,
+          "tweet_count": 134150864
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}
